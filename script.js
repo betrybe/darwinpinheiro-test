@@ -1,4 +1,7 @@
-var cart = []
+
+
+var cart = [];
+var sum = 0;
 
 function createProductImageElement(imageSource) {
   const img = document.createElement('img');
@@ -19,6 +22,7 @@ function insertProductIntoCart(item) {
   const product = { sku: item.id, name: item.title, salePrice: item.price }
   const element = createCartItemElement(product);
   document.getElementsByClassName("cart__items")[0].appendChild(element);
+
 }
 
 
@@ -29,15 +33,28 @@ function insertStorage(item) {
   localStorage.setItem("cart",  JSON.stringify(cart))
 }
 
+
+function calcPrices(){
+  sum = 0;
+  for(item of cart){
+    sum = sum + parseFloat(item.price)
+  }
+  localStorage.setItem("total-price",sum)
+  document.getElementsByClassName("total-price")[0].innerHTML = sum;
+
+}
+
 function loadProduct(id) {
-  const url = `https://api.mercadolibre.com/items/${id}`
-  const request = new XMLHttpRequest();
+  let url = `https://api.mercadolibre.com/items/${id}`
+  let request = new XMLHttpRequest();
+  request.open("GET", url, false);
   request.onload = () => {
     var response = JSON.parse(request.responseText);
     insertProductIntoCart(response);
     insertStorage(response);
+    calcPrices();
+    
   }
-  request.open("GET", url);
   request.send();
 }
 
@@ -69,6 +86,7 @@ function cartItemClickListener(event) {
   const target = document.getElementsByClassName("cart__items")[0]
   target.removeChild(this)
   removeStorage(this.innerText);
+  calcPrices();
 }
 
 function removeStorage(text){
@@ -95,7 +113,7 @@ function insertResultIntoDOM(item) {
 }
 
 function loadResultAPI() {
-  const url = "https://api.mercadolibre.com/sites/MLB/search?q=computador"
+  const url = "https://api.mercadolibre.com/sites/MLB/search?q=$computador"
   const request = new XMLHttpRequest();
   request.onerror = (e) => alert("API OFFLINE");
   request.onload = () => {
@@ -127,3 +145,4 @@ window.onload = () => {
 
 
 };
+
