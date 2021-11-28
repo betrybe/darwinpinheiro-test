@@ -9,8 +9,10 @@ function createProductImageElement(imageSource) {
 
 function removeStorage(text) {
   const target = JSON.parse(localStorage.cart);
+  let isRemoved = false; 
   target.forEach((item) => {
-    if (text.substr(5, 13) === item.id) {
+    if (text.substr(5, 13) === item.id && isRemoved === false) {
+      isRemoved = true;
       target.splice(target.indexOf(item), 1);
       cart = target;
       localStorage.setItem('cart', JSON.stringify(cart));
@@ -81,8 +83,8 @@ function createProductItemElement({ sku, name, image }) {
   const section = document.createElement('section');
   section.className = 'item';
   section.appendChild(createCustomElement('span', 'item__sku', sku));
-  section.appendChild(createCustomElement('span', 'item__title', name));
   section.appendChild(createProductImageElement(image));
+  section.appendChild(createCustomElement('span', 'item__title', name));
   section.appendChild(createCustomElement('button', 'item__add', 'Adicionar ao carrinho!', sku));
   return section;
 }
