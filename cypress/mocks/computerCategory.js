@@ -4,321 +4,12 @@ const results =
   "country_default_time_zone": "GMT-03:00",
   "query": "$computador",
   "paging": {
-    "total": 288056,
+    "total": 288057,
     "primary_results": 1000,
     "offset": 0,
     "limit": 50
   },
   "results": [
-    {
-      "id": "MLB1532308540",
-      "site_id": "MLB",
-      "title": "Computador Completo Fácil Intel I3 04 Gb Ddr3 Ssd 120 Gb",
-      "seller": {
-        "id": 339584170,
-        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
-        "registration_date": "2018-07-25T08:43:54.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "mshops",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 2
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0261,
-              "value": 159
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0552,
-              "value": 327
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 5836
-            }
-          },
-          "transactions": {
-            "canceled": 1683,
-            "period": "historic",
-            "total": 36137,
-            "ratings": {
-              "negative": 0.08,
-              "neutral": 0.02,
-              "positive": 0.9
-            },
-            "completed": 34454
-          }
-        }
-      },
-      "price": 1774.68,
-      "prices": {
-        "id": "MLB1532308540",
-        "prices": [
-          {
-            "id": "50",
-            "type": "standard",
-            "amount": 1929,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-24T17:18:29Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          },
-          {
-            "id": "52",
-            "type": "promotion",
-            "amount": 1581.78,
-            "regular_amount": 1929,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:53:16Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:52:14Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1532308540-9e1bac41-9692-45ef-9456-d90d7665d315",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 192.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1774.68
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-          {
-            "id": "7b0026b6-7d9d-4c4f-832a-dcbc1350c4f0",
-            "conditions": {
-              "allowed_methods": [
-                {
-                  "id": "pix",
-                  "issuer_id": null,
-                  "payment_type_id": "bank_transfer",
-                  "installments": null
-                }
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "restricted_to_prices": [
-              ]
-            },
-            "value": 5,
-            "type": "percentage",
-            "currency_id": null,
-            "metadata": {
-              "purchase_discount_id": "MLB465001",
-              "purchase_discount_type": "BD",
-              "purchase_discount_campaign_id": "P-MLB3042001",
-              "purchase_discount_rebate_id": "MLB1532308540-7bdf4d1b-7be8-4e59-8b49-1d6407235396"
-            },
-            "exchange_rate_context": "DEFAULT"
-          }
-        ],
-        "reference_prices": [
-          {
-            "id": "49",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-24T04:24:08Z",
-              "end_time": "2021-12-01T04:24:08Z",
-              "eligible": true
-            },
-            "amount": 1829,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-24T04:24:08Z"
-          }
-        ],
-        "purchase_discounts": [
-          {
-            "purchase_discount_id": "MLB465001",
-            "campaign_id": "P-MLB3042001",
-            "rebate_id": "MLB1532308540-7bdf4d1b-7be8-4e59-8b49-1d6407235396",
-            "type": "BD",
-            "discount_percentage": 0.05,
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "eligible": true
-            },
-            "purchase_min_amount": 0,
-            "max_discount_amount": 1000,
-            "max_benefit_count": 1
-          }
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 100,
-      "sold_quantity": 500,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2040-05-17T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1532308540-computador-completo-facil-intel-i3-04-gb-ddr3-ssd-120-gb-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_746289-MLB46849998659_072021-I.jpg",
-      "thumbnail_id": "746289-MLB46849998659_072021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 147.89,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_name": "Fácil Computadores",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "id": "BRAND",
-          "value_id": null,
-          "attribute_group_name": "Outros",
-          "source": 4060709329251625,
-          "name": "Marca",
-          "values": [
-            {
-              "id": null,
-              "name": "Fácil Computadores",
-              "struct": null,
-              "source": 4060709329251625
-            }
-          ]
-        },
-        {
-          "name": "Condição do item",
-          "value_name": "Novo",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 6808261514773724,
-          "id": "ITEM_CONDITION",
-          "value_id": "2230284",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 6808261514773724
-            }
-          ]
-        },
-        {
-          "value_id": null,
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "KIT I3 + MONITOR + MOUSE E TECLADOKI",
-              "struct": null,
-              "source": 6808261514773724
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "id": "MODEL",
-          "name": "Modelo",
-          "source": 6808261514773724,
-          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADOKI",
-          "attribute_group_id": "OTHERS"
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": 1929,
-      "category_id": "MLB1649",
-      "official_store_id": 3808,
-      "domain_id": "MLB-DESKTOP_COMPUTERS",
-      "catalog_product_id": null,
-      "tags": [
-        "brand_verified",
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "shipping_guaranteed"
-      ],
-      "order_backend": 1,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null
-    },
     {
       "id": "MLB1607748387",
       "site_id": "MLB",
@@ -611,6 +302,289 @@ const results =
         "shipping_guaranteed",
         "best_seller_candidate"
       ],
+      "order_backend": 1,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    },
+    {
+      "id": "MLB1532308540",
+      "site_id": "MLB",
+      "title": "Computador Completo Fácil Intel I3 04 Gb Ddr3 Ssd 120 Gb",
+      "seller": {
+        "id": 339584170,
+        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
+        "registration_date": "2018-07-25T08:43:54.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 2
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0261,
+              "value": 159
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0552,
+              "value": 327
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5836
+            }
+          },
+          "transactions": {
+            "canceled": 1683,
+            "period": "historic",
+            "total": 36137,
+            "ratings": {
+              "negative": 0.08,
+              "neutral": 0.02,
+              "positive": 0.9
+            },
+            "completed": 34454
+          }
+        }
+      },
+      "price": 1929,
+      "prices": {
+        "id": "MLB1532308540",
+        "prices": [
+          {
+            "id": "50",
+            "type": "standard",
+            "amount": 1929,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-24T17:18:29Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+          {
+            "id": "7b0026b6-7d9d-4c4f-832a-dcbc1350c4f0",
+            "conditions": {
+              "allowed_methods": [
+                {
+                  "id": "pix",
+                  "issuer_id": null,
+                  "payment_type_id": "bank_transfer",
+                  "installments": null
+                }
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "restricted_to_prices": [
+              ]
+            },
+            "value": 5,
+            "type": "percentage",
+            "currency_id": null,
+            "metadata": {
+              "purchase_discount_id": "MLB465001",
+              "purchase_discount_type": "BD",
+              "purchase_discount_campaign_id": "P-MLB3042001",
+              "purchase_discount_rebate_id": "MLB1532308540-7bdf4d1b-7be8-4e59-8b49-1d6407235396"
+            },
+            "exchange_rate_context": "DEFAULT"
+          }
+        ],
+        "reference_prices": [
+          {
+            "id": "49",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-24T04:24:08Z",
+              "end_time": "2021-12-01T04:24:08Z",
+              "eligible": true
+            },
+            "amount": 1829,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-24T04:24:08Z"
+          }
+        ],
+        "purchase_discounts": [
+          {
+            "purchase_discount_id": "MLB465001",
+            "campaign_id": "P-MLB3042001",
+            "rebate_id": "MLB1532308540-7bdf4d1b-7be8-4e59-8b49-1d6407235396",
+            "type": "BD",
+            "discount_percentage": 0.05,
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "eligible": true
+            },
+            "purchase_min_amount": 0,
+            "max_discount_amount": 1000,
+            "max_benefit_count": 1
+          }
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 100,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2040-05-17T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1532308540-computador-completo-facil-intel-i3-04-gb-ddr3-ssd-120-gb-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_746289-MLB46849998659_072021-I.jpg",
+      "thumbnail_id": "746289-MLB46849998659_072021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 160.75,
+        "rate": 0,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-MG",
+        "state_name": "Minas Gerais",
+        "city_id": "TUxCQ0JFTGU0ODdm",
+        "city_name": "Belo Horizonte"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-MG",
+          "name": "Minas Gerais"
+        },
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Fácil Computadores",
+          "values": [
+            {
+              "id": null,
+              "name": "Fácil Computadores",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "value_struct": null
+        },
+        {
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "values": [
+            {
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "2230284",
+              "name": "Novo"
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "source": 6808261514773724
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 6808261514773724,
+          "value_id": null,
+          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADOKI",
+          "values": [
+            {
+              "id": null,
+              "name": "KIT I3 + MONITOR + MOUSE E TECLADOKI",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33580182
+      },
+      "original_price": null,
+      "category_id": "MLB1649",
+      "official_store_id": 3808,
+      "domain_id": "MLB-DESKTOP_COMPUTERS",
+      "catalog_product_id": null,
+      "tags": [
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
       "order_backend": 2,
       "use_thumbnail_id": true,
       "offer_score": null,
@@ -737,8 +711,8 @@ const results =
       },
       "sale_price": null,
       "currency_id": "BRL",
-      "available_quantity": 62,
-      "sold_quantity": 74,
+      "available_quantity": 61,
+      "sold_quantity": 75,
       "buying_mode": "buy_it_now",
       "listing_type_id": "gold_pro",
       "stop_time": "2041-11-05T04:00:00.000Z",
@@ -791,24 +765,30 @@ const results =
       },
       "attributes": [
         {
-          "value_id": "31163",
-          "values": [
-            {
-              "id": "31163",
-              "name": "Multilaser",
-              "struct": null,
-              "source": 1
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "name": "Marca",
-          "value_name": "Multilaser",
           "value_struct": null,
           "attribute_group_id": "OTHERS",
           "source": 1,
-          "id": "BRAND"
+          "value_name": "Multilaser",
+          "values": [
+            {
+              "name": "Multilaser",
+              "struct": null,
+              "source": 1,
+              "id": "31163"
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "31163"
         },
         {
+          "source": 2860837171021627,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
           "values": [
             {
               "id": "2230284",
@@ -817,88 +797,87 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "value_struct": null,
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "attribute_group_id": "OTHERS",
-          "id": "ITEM_CONDITION"
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item"
         },
         {
+          "name": "Linha",
           "value_id": "7963805",
+          "id": "LINE",
           "value_struct": null,
           "values": [
             {
+              "struct": null,
               "source": 1,
               "id": "7963805",
-              "name": "Legacy Book",
-              "struct": null
+              "name": "Legacy Book"
             }
           ],
-          "source": 1,
-          "id": "LINE",
-          "name": "Linha",
-          "value_name": "Legacy Book",
           "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "value_name": "Legacy Book"
         },
         {
+          "id": "MODEL",
+          "name": "Modelo",
           "value_id": "10968233",
           "value_name": "PC250",
           "values": [
             {
-              "id": "10968233",
               "name": "PC250",
               "struct": null,
-              "source": 1
+              "source": 1,
+              "id": "10968233"
             }
           ],
-          "attribute_group_name": "Outros",
           "source": 1,
-          "id": "MODEL",
           "value_struct": null,
           "attribute_group_id": "OTHERS",
-          "name": "Modelo"
+          "attribute_group_name": "Outros"
         },
         {
-          "id": "PROCESSOR_BRAND",
           "name": "Marca do processador",
           "value_name": "Intel",
           "values": [
             {
-              "id": "7855833",
-              "name": "Intel",
               "struct": null,
-              "source": 1
+              "source": 1,
+              "id": "7855833",
+              "name": "Intel"
             }
           ],
-          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "PROCESSOR_BRAND",
           "value_id": "7855833",
           "value_struct": null,
-          "attribute_group_name": "Outros",
+          "attribute_group_id": "OTHERS",
           "source": 1
         },
         {
-          "source": 1,
           "name": "Linha do processador",
-          "value_id": "44273",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
+          "source": 1,
           "id": "PROCESSOR_LINE",
+          "value_id": "44273",
           "value_name": "Celeron",
+          "value_struct": null,
           "values": [
             {
+              "struct": null,
               "source": 1,
               "id": "44273",
-              "name": "Celeron",
-              "struct": null
+              "name": "Celeron"
             }
-          ]
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
         },
         {
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "name": "Modelo do processador",
+          "value_id": "7899542",
+          "value_name": "N3350",
           "values": [
             {
               "id": "7899542",
@@ -908,21 +887,14 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 1,
           "id": "PROCESSOR_MODEL",
-          "value_id": "7899542",
-          "value_name": "N3350",
-          "value_struct": null,
-          "name": "Modelo do processador"
+          "value_struct": null
         },
         {
           "value_struct": {
-            "unit": "g",
-            "number": 1800
+            "number": 1800,
+            "unit": "g"
           },
-          "attribute_group_name": "Outros",
-          "source": 1,
           "values": [
             {
               "id": "7397812",
@@ -935,10 +907,12 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "id": "WEIGHT",
-          "name": "Peso",
           "value_id": "7397812",
-          "value_name": "1800 g"
+          "value_name": "1800 g",
+          "source": 1,
+          "name": "Peso"
         }
       ],
       "differential_pricing": {
@@ -1146,22 +1120,24 @@ const results =
         {
           "attribute_group_name": "Outros",
           "source": 3045741222775799,
-          "value_id": "7855833",
+          "name": "Marca",
+          "values": [
+            {
+              "id": "7855833",
+              "name": "Intel",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
           "value_name": "Intel",
           "value_struct": null,
           "attribute_group_id": "OTHERS",
           "id": "BRAND",
-          "name": "Marca",
-          "values": [
-            {
-              "source": 3045741222775799,
-              "id": "7855833",
-              "name": "Intel",
-              "struct": null
-            }
-          ]
+          "value_id": "7855833"
         },
         {
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "value_struct": null,
           "values": [
             {
@@ -1171,16 +1147,17 @@ const results =
               "source": 3045741222775799
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
+          "value_id": "2230284",
+          "value_name": "Novo",
           "source": 3045741222775799,
           "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo"
+          "name": "Condição do item"
         },
         {
-          "value_id": null,
+          "attribute_group_name": "Outros",
+          "name": "Modelo",
+          "value_name": "Computador",
+          "value_struct": null,
           "values": [
             {
               "id": null,
@@ -1189,13 +1166,10 @@ const results =
               "source": 3045741222775799
             }
           ],
-          "attribute_group_name": "Outros",
           "attribute_group_id": "OTHERS",
-          "source": 3045741222775799,
           "id": "MODEL",
-          "name": "Modelo",
-          "value_name": "Computador",
-          "value_struct": null
+          "value_id": null,
+          "source": 3045741222775799
         }
       ],
       "differential_pricing": {
@@ -1614,7 +1588,7 @@ const results =
           }
         }
       },
-      "price": 2299.08,
+      "price": 2499,
       "prices": {
         "id": "MLB1570169975",
         "prices": [
@@ -1634,32 +1608,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "39",
-            "type": "promotion",
-            "amount": 2049.18,
-            "regular_amount": 2499,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T19:07:51Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T19:06:51Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1570169975-a6f59016-7bc1-4873-8c9c-93ac8946ad0e",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 249.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2299.08
             }
           }
         ],
@@ -1750,7 +1698,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 191.59,
+        "amount": 208.25,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -1791,64 +1739,64 @@ const results =
       },
       "attributes": [
         {
-          "attribute_group_name": "Outros",
-          "source": 4060709329251625,
-          "id": "BRAND",
-          "value_id": null,
-          "value_struct": null,
-          "values": [
-            {
-              "name": "Fácil Computadores",
-              "struct": null,
-              "source": 4060709329251625,
-              "id": null
-            }
-          ],
-          "name": "Marca",
-          "value_name": "Fácil Computadores",
-          "attribute_group_id": "OTHERS"
-        },
-        {
-          "source": 2860837171021627,
-          "name": "Condição do item",
-          "value_name": "Novo",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "id": "ITEM_CONDITION",
-          "value_id": "2230284",
-          "value_struct": null,
-          "values": [
-            {
-              "source": 2860837171021627,
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null
-            }
-          ]
-        },
-        {
-          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "value_id": null,
-          "name": "Modelo",
           "values": [
             {
               "id": null,
-              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+              "name": "Fácil Computadores",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "value_struct": null,
+          "value_name": "Fácil Computadores",
+          "attribute_group_id": "OTHERS",
+          "name": "Marca",
+          "value_id": null
+        },
+        {
+          "value_id": "2230284",
+          "attribute_group_name": "Outros",
+          "id": "ITEM_CONDITION",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
               "struct": null,
               "source": 2860837171021627
             }
           ],
-          "id": "MODEL"
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627,
+          "name": "Condição do item"
+        },
+        {
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "id": "MODEL",
+          "name": "Modelo",
+          "attribute_group_id": "OTHERS",
+          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+          "values": [
+            {
+              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ]
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2499,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -2178,571 +2126,6 @@ const results =
       "offer_share": null,
       "match_score": null,
       "winner_item_id": null
-    },
-    {
-      "id": "MLB1786287485",
-      "site_id": "MLB",
-      "title": "Micro Computador I3-530, 2.93 Ghz, 4gb Ddr3, Ssd 120gb, Hdmi",
-      "seller": {
-        "id": 126833849,
-        "permalink": "http://perfil.mercadolivre.com.br/UAI-SHOCK",
-        "registration_date": "2012-10-09T09:00:29.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "normal",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0.0033,
-              "value": 4
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0223,
-              "value": 27
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0202,
-              "value": 23
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 1101
-            }
-          },
-          "transactions": {
-            "canceled": 720,
-            "period": "historic",
-            "total": 7377,
-            "ratings": {
-              "negative": 0.02,
-              "neutral": 0.01,
-              "positive": 0.97
-            },
-            "completed": 6657
-          }
-        }
-      },
-      "price": 1089.49,
-      "prices": {
-        "id": "MLB1786287485",
-        "prices": [
-          {
-            "id": "7",
-            "type": "standard",
-            "amount": 1089.49,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-08-10T17:42:29Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-        ],
-        "reference_prices": [
-          {
-            "id": "24",
-            "type": "min_standard",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "amount": 1089.49,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-26T11:27:43Z"
-          }
-        ],
-        "purchase_discounts": [
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 100,
-      "sold_quantity": 250,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_special",
-      "stop_time": "2041-01-29T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1786287485-micro-computador-i3-530-293-ghz-4gb-ddr3-ssd-120gb-hdmi-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_763362-MLB44791757480_022021-I.jpg",
-      "thumbnail_id": "763362-MLB44791757480_022021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 104.53,
-        "rate": 15.13,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "id": "BRAND",
-          "value_id": null,
-          "attribute_group_name": "Outros",
-          "source": 923230526977079,
-          "attribute_group_id": "OTHERS",
-          "name": "Marca",
-          "value_name": "Shock",
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "Shock",
-              "struct": null,
-              "source": 923230526977079
-            }
-          ]
-        },
-        {
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 1
-            }
-          ],
-          "source": 1,
-          "id": "ITEM_CONDITION",
-          "value_name": "Novo",
-          "value_struct": null
-        },
-        {
-          "value_id": null,
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "id": "MODEL",
-          "name": "Modelo",
-          "source": 923230526977079,
-          "value_name": "i3-530",
-          "values": [
-            {
-              "name": "i3-530",
-              "struct": null,
-              "source": 923230526977079,
-              "id": null
-            }
-          ]
-        }
-      ],
-      "original_price": null,
-      "category_id": "MLB1649",
-      "official_store_id": null,
-      "domain_id": "MLB-DESKTOP_COMPUTERS",
-      "catalog_product_id": null,
-      "tags": [
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "shipping_guaranteed",
-        "best_seller_candidate"
-      ],
-      "order_backend": 8,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null
-    },
-    {
-      "id": "MLB1876750671",
-      "site_id": "MLB",
-      "title": "Notebook Multilaser Legacy Cloud Pc131 Gray 14 , Intel Atom X5-z8350 2gb De Ram 32gb Ssd 1366x768px Windows 10 Home",
-      "seller": {
-        "id": 694785153,
-        "permalink": "http://perfil.mercadolivre.com.br/MIMI2231343",
-        "registration_date": "2020-12-29T11:28:34.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 0
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0135,
-              "value": 16
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.008,
-              "value": 9
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 1093
-            }
-          },
-          "transactions": {
-            "canceled": 393,
-            "period": "historic",
-            "total": 3951,
-            "ratings": {
-              "negative": 0.03,
-              "neutral": 0,
-              "positive": 0.97
-            },
-            "completed": 3558
-          }
-        }
-      },
-      "price": 1456.85,
-      "prices": {
-        "id": "MLB1876750671",
-        "prices": [
-          {
-            "id": "17",
-            "type": "standard",
-            "amount": 1456.85,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-13T14:14:28Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-        ],
-        "reference_prices": [
-          {
-            "id": "18",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-16T14:21:48Z",
-              "end_time": "2021-11-23T14:21:48Z",
-              "eligible": true
-            },
-            "amount": 1498,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-16T14:21:48Z"
-          }
-        ],
-        "purchase_discounts": [
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 3,
-      "sold_quantity": 24,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2041-05-01T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://www.mercadolivre.com.br/notebook-multilaser-legacy-cloud-pc131-gray-14-intel-atom-x5-z8350-2gb-de-ram-32gb-ssd-1366x768px-windows-10-home/p/MLB17739841",
-      "thumbnail": "http://http2.mlstatic.com/D_663420-MLA45638372671_042021-I.jpg",
-      "thumbnail_id": "663420-MLA45638372671_042021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 121.4,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-RN",
-        "state_name": "Rio Grande do Norte",
-        "city_id": "TUxCQ05BVGI2OTFm",
-        "city_name": "Natal"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "drop_off",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-RN",
-          "name": "Rio Grande do Norte"
-        },
-        "city": {
-          "id": "TUxCQ05BVGI2OTFm",
-          "name": "Natal"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_name": "Multilaser",
-          "source": 1,
-          "value_struct": null,
-          "values": [
-            {
-              "source": 1,
-              "id": "31163",
-              "name": "Multilaser",
-              "struct": null
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "id": "BRAND",
-          "name": "Marca",
-          "value_id": "31163"
-        },
-        {
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 1
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "source": 1
-        },
-        {
-          "value_struct": null,
-          "values": [
-            {
-              "id": "7878593",
-              "name": "Legacy Cloud",
-              "struct": null,
-              "source": 1
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "id": "LINE",
-          "name": "Linha",
-          "value_name": "Legacy Cloud",
-          "value_id": "7878593",
-          "attribute_group_id": "OTHERS",
-          "source": 1
-        },
-        {
-          "id": "MODEL",
-          "value_id": "10132514",
-          "attribute_group_id": "OTHERS",
-          "source": 1,
-          "attribute_group_name": "Outros",
-          "name": "Modelo",
-          "value_name": "PC131",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "10132514",
-              "name": "PC131",
-              "struct": null,
-              "source": 1
-            }
-          ]
-        },
-        {
-          "id": "PROCESSOR_BRAND",
-          "value_name": "Intel",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "name": "Marca do processador",
-          "value_id": "7855833",
-          "values": [
-            {
-              "name": "Intel",
-              "struct": null,
-              "source": 1,
-              "id": "7855833"
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "source": 1
-        },
-        {
-          "value_id": "109512",
-          "value_name": "Atom",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "PROCESSOR_LINE",
-          "name": "Linha do processador",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "109512",
-              "name": "Atom",
-              "struct": null,
-              "source": 1
-            }
-          ]
-        },
-        {
-          "value_name": "X5-Z8350",
-          "attribute_group_name": "Outros",
-          "source": 1,
-          "attribute_group_id": "OTHERS",
-          "id": "PROCESSOR_MODEL",
-          "name": "Modelo do processador",
-          "value_id": "5597303",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "5597303",
-              "name": "X5-Z8350",
-              "struct": null,
-              "source": 1
-            }
-          ]
-        },
-        {
-          "value_id": "8040220",
-          "values": [
-            {
-              "id": "8040220",
-              "name": "1.87 kg",
-              "struct": {
-                "number": 1.87,
-                "unit": "kg"
-              },
-              "source": 4709228965570453
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "id": "WEIGHT",
-          "name": "Peso",
-          "value_name": "1.87 kg",
-          "value_struct": {
-            "number": 1.87,
-            "unit": "kg"
-          },
-          "attribute_group_name": "Outros",
-          "source": 4709228965570453
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": null,
-      "category_id": "MLB1652",
-      "official_store_id": 3396,
-      "domain_id": "MLB-NOTEBOOKS",
-      "catalog_product_id": "MLB17739841",
-      "tags": [
-        "extended_warranty_eligible",
-        "good_quality_picture",
-        "loyalty_discount_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "best_seller_candidate"
-      ],
-      "catalog_listing": true,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null,
-      "order_backend": 9
     },
     {
       "id": "MLB1645580765",
@@ -3108,7 +2491,7 @@ const results =
         "shipping_guaranteed",
         "best_seller_candidate"
       ],
-      "order_backend": 10,
+      "order_backend": 8,
       "use_thumbnail_id": false,
       "offer_score": null,
       "offer_share": null,
@@ -3167,7 +2550,7 @@ const results =
           }
         }
       },
-      "price": 1674.31,
+      "price": 1619.71,
       "prices": {
         "id": "MLB1790675058",
         "prices": [
@@ -3190,12 +2573,12 @@ const results =
             }
           },
           {
-            "id": "90",
+            "id": "93",
             "type": "promotion",
             "amount": 1619.71,
             "regular_amount": 1819.9,
             "currency_id": "BRL",
-            "last_updated": "2021-11-26T19:55:40Z",
+            "last_updated": "2021-11-27T23:15:47Z",
             "conditions": {
               "context_restrictions": [
                 "channel_marketplace"
@@ -3209,32 +2592,6 @@ const results =
               "campaign_id": "MLB6630",
               "promotion_id": "MLB6630",
               "promotion_type": "campaign"
-            }
-          },
-          {
-            "id": "91",
-            "type": "promotion",
-            "amount": 1492.32,
-            "regular_amount": 1819.9,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T19:55:40Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T19:54:40Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1790675058-a0bb6729-43ba-4ed4-b345-5253de19b63d",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 181.99,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1674.31
             }
           }
         ],
@@ -3280,7 +2637,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 139.53,
+        "amount": 134.98,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -3321,57 +2678,57 @@ const results =
       },
       "attributes": [
         {
-          "attribute_group_id": "OTHERS",
-          "value_id": null,
+          "id": "BRAND",
           "name": "Marca",
-          "value_name": "Cyber Tech",
           "value_struct": null,
           "values": [
             {
-              "struct": null,
-              "source": 3045741222775799,
-              "id": null,
-              "name": "Cyber Tech"
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "source": 3045741222775799,
-          "id": "BRAND"
-        },
-        {
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "attribute_group_name": "Outros",
-          "value_name": "Novo",
-          "value_struct": null,
-          "values": [
-            {
-              "source": 3045741222775799,
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "source": 3045741222775799
-        },
-        {
-          "value_name": "Desktop",
-          "value_struct": null,
-          "values": [
-            {
-              "name": "Desktop",
+              "name": "Cyber Tech",
               "struct": null,
               "source": 3045741222775799,
               "id": null
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "id": "MODEL",
-          "name": "Modelo",
           "source": 3045741222775799,
           "value_id": null,
+          "value_name": "Cyber Tech",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "attribute_group_id": "OTHERS",
+          "source": 3045741222775799,
+          "name": "Condição do item",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "attribute_group_name": "Outros"
+        },
+        {
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Desktop",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Desktop",
+          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros"
         }
       ],
@@ -3386,6 +2743,571 @@ const results =
       "tags": [
         "good_quality_picture",
         "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 9,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    },
+    {
+      "id": "MLB1876750671",
+      "site_id": "MLB",
+      "title": "Notebook Multilaser Legacy Cloud Pc131 Gray 14 , Intel Atom X5-z8350 2gb De Ram 32gb Ssd 1366x768px Windows 10 Home",
+      "seller": {
+        "id": 694785153,
+        "permalink": "http://perfil.mercadolivre.com.br/MIMI2231343",
+        "registration_date": "2020-12-29T11:28:34.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.013,
+              "value": 16
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0077,
+              "value": 9
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 1136
+            }
+          },
+          "transactions": {
+            "canceled": 394,
+            "period": "historic",
+            "total": 3995,
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0,
+              "positive": 0.97
+            },
+            "completed": 3601
+          }
+        }
+      },
+      "price": 1456.85,
+      "prices": {
+        "id": "MLB1876750671",
+        "prices": [
+          {
+            "id": "17",
+            "type": "standard",
+            "amount": 1456.85,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-13T14:14:28Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "18",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-16T14:21:48Z",
+              "end_time": "2021-11-23T14:21:48Z",
+              "eligible": true
+            },
+            "amount": 1498,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-16T14:21:48Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 3,
+      "sold_quantity": 24,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2041-05-01T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://www.mercadolivre.com.br/notebook-multilaser-legacy-cloud-pc131-gray-14-intel-atom-x5-z8350-2gb-de-ram-32gb-ssd-1366x768px-windows-10-home/p/MLB17739841",
+      "thumbnail": "http://http2.mlstatic.com/D_663420-MLA45638372671_042021-I.jpg",
+      "thumbnail_id": "663420-MLA45638372671_042021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 121.4,
+        "rate": 0,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-RN",
+        "state_name": "Rio Grande do Norte",
+        "city_id": "TUxCQ05BVGI2OTFm",
+        "city_name": "Natal"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-RN",
+          "name": "Rio Grande do Norte"
+        },
+        "city": {
+          "id": "TUxCQ05BVGI2OTFm",
+          "name": "Natal"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "Multilaser",
+          "source": 1,
+          "value_struct": null,
+          "values": [
+            {
+              "source": 1,
+              "id": "31163",
+              "name": "Multilaser",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "31163"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "source": 1
+        },
+        {
+          "value_struct": null,
+          "values": [
+            {
+              "id": "7878593",
+              "name": "Legacy Cloud",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "id": "LINE",
+          "name": "Linha",
+          "value_name": "Legacy Cloud",
+          "value_id": "7878593",
+          "attribute_group_id": "OTHERS",
+          "source": 1
+        },
+        {
+          "id": "MODEL",
+          "value_id": "10132514",
+          "attribute_group_id": "OTHERS",
+          "source": 1,
+          "attribute_group_name": "Outros",
+          "name": "Modelo",
+          "value_name": "PC131",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10132514",
+              "name": "PC131",
+              "struct": null,
+              "source": 1
+            }
+          ]
+        },
+        {
+          "id": "PROCESSOR_BRAND",
+          "value_name": "Intel",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "name": "Marca do processador",
+          "value_id": "7855833",
+          "values": [
+            {
+              "name": "Intel",
+              "struct": null,
+              "source": 1,
+              "id": "7855833"
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "source": 1
+        },
+        {
+          "value_id": "109512",
+          "value_name": "Atom",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "id": "PROCESSOR_LINE",
+          "name": "Linha do processador",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "109512",
+              "name": "Atom",
+              "struct": null,
+              "source": 1
+            }
+          ]
+        },
+        {
+          "value_name": "X5-Z8350",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "attribute_group_id": "OTHERS",
+          "id": "PROCESSOR_MODEL",
+          "name": "Modelo do processador",
+          "value_id": "5597303",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "5597303",
+              "name": "X5-Z8350",
+              "struct": null,
+              "source": 1
+            }
+          ]
+        },
+        {
+          "value_id": "8040220",
+          "values": [
+            {
+              "id": "8040220",
+              "name": "1.87 kg",
+              "struct": {
+                "number": 1.87,
+                "unit": "kg"
+              },
+              "source": 4709228965570453
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_name": "1.87 kg",
+          "value_struct": {
+            "number": 1.87,
+            "unit": "kg"
+          },
+          "attribute_group_name": "Outros",
+          "source": 4709228965570453
+        }
+      ],
+      "differential_pricing": {
+        "id": 33580182
+      },
+      "original_price": null,
+      "category_id": "MLB1652",
+      "official_store_id": 3396,
+      "domain_id": "MLB-NOTEBOOKS",
+      "catalog_product_id": "MLB17739841",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate"
+      ],
+      "catalog_listing": true,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "order_backend": 10
+    },
+    {
+      "id": "MLB1786287485",
+      "site_id": "MLB",
+      "title": "Micro Computador I3-530, 2.93 Ghz, 4gb Ddr3, Ssd 120gb, Hdmi",
+      "seller": {
+        "id": 126833849,
+        "permalink": "http://perfil.mercadolivre.com.br/UAI-SHOCK",
+        "registration_date": "2012-10-09T09:00:29.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0033,
+              "value": 4
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0223,
+              "value": 27
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0202,
+              "value": 23
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 1101
+            }
+          },
+          "transactions": {
+            "canceled": 720,
+            "period": "historic",
+            "total": 7377,
+            "ratings": {
+              "negative": 0.02,
+              "neutral": 0.01,
+              "positive": 0.97
+            },
+            "completed": 6657
+          }
+        }
+      },
+      "price": 1089.49,
+      "prices": {
+        "id": "MLB1786287485",
+        "prices": [
+          {
+            "id": "7",
+            "type": "standard",
+            "amount": 1089.49,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-08-10T17:42:29Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "24",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1089.49,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-26T11:27:43Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 100,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-01-29T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1786287485-micro-computador-i3-530-293-ghz-4gb-ddr3-ssd-120gb-hdmi-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_763362-MLB44791757480_022021-I.jpg",
+      "thumbnail_id": "763362-MLB44791757480_022021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 104.53,
+        "rate": 15.13,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-MG",
+        "state_name": "Minas Gerais",
+        "city_id": "TUxCQ0JFTGU0ODdm",
+        "city_name": "Belo Horizonte"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-MG",
+          "name": "Minas Gerais"
+        },
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_id": null,
+          "attribute_group_name": "Outros",
+          "source": 923230526977079,
+          "attribute_group_id": "OTHERS",
+          "name": "Marca",
+          "value_name": "Shock",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Shock",
+              "struct": null,
+              "source": 923230526977079
+            }
+          ]
+        },
+        {
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "id": "ITEM_CONDITION",
+          "value_name": "Novo",
+          "value_struct": null
+        },
+        {
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "MODEL",
+          "name": "Modelo",
+          "source": 923230526977079,
+          "value_name": "i3-530",
+          "values": [
+            {
+              "name": "i3-530",
+              "struct": null,
+              "source": 923230526977079,
+              "id": null
+            }
+          ]
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLB1649",
+      "official_store_id": null,
+      "domain_id": "MLB-DESKTOP_COMPUTERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed",
@@ -3637,12 +3559,11 @@ const results =
       },
       "attributes": [
         {
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "id": "BRAND",
-          "name": "Marca",
           "value_id": "8216",
           "value_name": "Dell",
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
+          "value_struct": null,
           "values": [
             {
               "id": "8216",
@@ -3652,33 +3573,33 @@ const results =
             }
           ],
           "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "name": "Marca"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "name": "Condição do item",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
           "source": 2860837171021627
         },
         {
-          "value_struct": null,
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "values": [
-            {
-              "source": 2860837171021627,
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null
-            }
-          ],
-          "attribute_group_id": "OTHERS"
-        },
-        {
-          "value_name": "3050",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "name": "Modelo",
+          "id": "MODEL",
           "value_id": null,
+          "value_name": "3050",
           "value_struct": null,
+          "name": "Modelo",
           "values": [
             {
               "id": null,
@@ -3687,8 +3608,9 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "source": 2860837171021627,
-          "id": "MODEL"
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627
         }
       ],
       "differential_pricing": {
@@ -3700,11 +3622,11 @@ const results =
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
         "brand_verified",
         "extended_warranty_eligible",
         "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed",
@@ -3771,7 +3693,7 @@ const results =
           }
         }
       },
-      "price": 2556.68,
+      "price": 2779,
       "prices": {
         "id": "MLB2021112790",
         "prices": [
@@ -3791,32 +3713,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "8",
-            "type": "promotion",
-            "amount": 2278.78,
-            "regular_amount": 2779,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:28:34Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:27:33Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB2021112790-70b741ab-69d0-43ac-b8d5-a5258772b574",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 277.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2556.68
             }
           }
         ],
@@ -3907,7 +3803,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 213.06,
+        "amount": 231.58,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -3948,8 +3844,14 @@ const results =
       },
       "attributes": [
         {
-          "value_id": null,
+          "source": 2860837171021627,
+          "name": "Marca",
+          "value_name": "Fácil",
           "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "BRAND",
+          "value_id": null,
           "values": [
             {
               "id": null,
@@ -3957,35 +3859,28 @@ const results =
               "struct": null,
               "source": 2860837171021627
             }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "id": "BRAND",
-          "name": "Marca",
-          "value_name": "Fácil"
+          ]
         },
         {
           "id": "ITEM_CONDITION",
-          "source": 2860837171021627,
-          "value_struct": null,
+          "value_id": "2230284",
+          "value_name": "Novo",
           "values": [
             {
+              "id": "2230284",
               "name": "Novo",
               "struct": null,
-              "source": 2860837171021627,
-              "id": "2230284"
+              "source": 2860837171021627
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
           "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo"
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
         },
         {
-          "value_id": null,
-          "value_struct": null,
+          "name": "Modelo",
           "values": [
             {
               "id": null,
@@ -3994,26 +3889,27 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "attribute_group_id": "OTHERS",
           "source": 2860837171021627,
           "id": "MODEL",
-          "name": "Modelo",
+          "value_id": null,
           "value_name": "Gamer Completo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2779,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
+        "loyalty_discount_eligible",
         "good_quality_picture",
         "good_quality_thumbnail",
-        "loyalty_discount_eligible",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -4678,7 +4574,7 @@ const results =
           }
         }
       },
-      "price": 3219.08,
+      "price": 3499,
       "prices": {
         "id": "MLB1576042254",
         "prices": [
@@ -4698,32 +4594,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "78",
-            "type": "promotion",
-            "amount": 2869.18,
-            "regular_amount": 3499,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T21:15:52Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T21:14:50Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1576042254-0a4eaf8b-94c5-48f9-b873-e540d72f88d9",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 349.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 3219.08
             }
           }
         ],
@@ -4769,7 +4639,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 268.26,
+        "amount": 291.58,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -4812,9 +4682,6 @@ const results =
       },
       "attributes": [
         {
-          "name": "Marca",
-          "value_name": "Intel",
-          "value_struct": null,
           "values": [
             {
               "id": "7855833",
@@ -4823,36 +4690,40 @@ const results =
               "source": 9903
             }
           ],
+          "attribute_group_id": "OTHERS",
+          "value_id": "7855833",
+          "value_name": "Intel",
+          "value_struct": null,
           "source": 9903,
           "id": "BRAND",
-          "value_id": "7855833",
-          "attribute_group_id": "OTHERS",
+          "name": "Marca",
           "attribute_group_name": "Outros"
         },
         {
-          "name": "Condição do item",
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 1
-            }
-          ],
           "attribute_group_name": "Outros",
           "source": 1,
           "id": "ITEM_CONDITION",
-          "value_id": "2230284",
+          "name": "Condição do item",
           "value_name": "Novo",
+          "attribute_group_id": "OTHERS",
+          "value_id": "2230284",
           "value_struct": null,
-          "attribute_group_id": "OTHERS"
+          "values": [
+            {
+              "struct": null,
+              "source": 1,
+              "id": "2230284",
+              "name": "Novo"
+            }
+          ]
         },
         {
-          "attribute_group_id": "OTHERS",
-          "id": "MODEL",
-          "name": "Modelo",
           "value_name": "GAMER",
-          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 1954489517989554,
+          "id": "MODEL",
+          "value_id": null,
           "values": [
             {
               "source": 1954489517989554,
@@ -4861,39 +4732,37 @@ const results =
               "struct": null
             }
           ],
-          "value_id": null,
-          "attribute_group_name": "Outros",
-          "source": 1954489517989554
+          "name": "Modelo",
+          "value_struct": null
         },
         {
-          "name": "Comprimento da embalagem",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 4333789534002961,
+          "id": "PACKAGE_LENGTH",
           "value_id": null,
-          "value_name": "53.5 cm",
           "values": [
             {
-              "source": 4333789534002961,
               "id": null,
               "name": "53.5 cm",
               "struct": {
                 "number": 53.5,
                 "unit": "cm"
-              }
+              },
+              "source": 4333789534002961
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "source": 4333789534002961,
-          "id": "PACKAGE_LENGTH",
+          "name": "Comprimento da embalagem",
+          "value_name": "53.5 cm",
           "value_struct": {
-            "number": 53.5,
-            "unit": "cm"
-          },
-          "attribute_group_name": "Outros"
+            "unit": "cm",
+            "number": 53.5
+          }
         },
         {
-          "source": 4333789534002961,
-          "id": "PACKAGE_WEIGHT",
           "name": "Peso da embalagem",
-          "value_name": "9710 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "values": [
             {
               "id": null,
@@ -4905,19 +4774,20 @@ const results =
               "source": 4333789534002961
             }
           ],
-          "attribute_group_id": "OTHERS",
+          "source": 4333789534002961,
+          "id": "PACKAGE_WEIGHT",
           "value_id": null,
+          "value_name": "9710 g",
           "value_struct": {
             "number": 9710,
             "unit": "g"
-          },
-          "attribute_group_name": "Outros"
+          }
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 3499,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": null,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -4992,7 +4862,7 @@ const results =
           }
         }
       },
-      "price": 2667.08,
+      "price": 2899,
       "prices": {
         "id": "MLB1568104893",
         "prices": [
@@ -5012,32 +4882,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "42",
-            "type": "promotion",
-            "amount": 2377.18,
-            "regular_amount": 2899,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:40:44Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:39:41Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1568104893-f31b8c85-801d-494d-bc1c-019643992c8f",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 289.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2667.08
             }
           }
         ],
@@ -5128,7 +4972,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 222.26,
+        "amount": 241.58,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -5170,26 +5014,30 @@ const results =
       "attributes": [
         {
           "value_name": "FÁCIL",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "BRAND",
+          "value_id": null,
+          "source": 2860837171021627,
+          "name": "Marca",
+          "values": [
+            {
+              "name": "FÁCIL",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ]
+        },
+        {
+          "value_name": "Novo",
           "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
           "source": 2860837171021627,
-          "id": "BRAND",
-          "value_id": null,
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "FÁCIL",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "name": "Marca"
-        },
-        {
-          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
           "name": "Condição do item",
-          "attribute_group_name": "Outros",
+          "value_struct": null,
           "values": [
             {
               "id": "2230284",
@@ -5198,27 +5046,23 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "source": 2860837171021627,
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "value_struct": null
+          "id": "ITEM_CONDITION"
         },
         {
           "id": "MODEL",
-          "value_name": "GAMER",
+          "name": "Modelo",
+          "value_struct": null,
           "values": [
             {
-              "id": null,
-              "name": "GAMER",
               "struct": null,
-              "source": 2860837171021627
+              "source": 2860837171021627,
+              "id": null,
+              "name": "GAMER"
             }
           ],
           "attribute_group_id": "OTHERS",
-          "name": "Modelo",
           "value_id": null,
-          "value_struct": null,
+          "value_name": "GAMER",
           "attribute_group_name": "Outros",
           "source": 2860837171021627
         }
@@ -5226,16 +5070,16 @@ const results =
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2899,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
+        "brand_verified",
         "good_quality_picture",
         "good_quality_thumbnail",
         "loyalty_discount_eligible",
-        "brand_verified",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -5292,8 +5136,8 @@ const results =
             "total": 7083,
             "ratings": {
               "negative": 0.07,
-              "neutral": 0.02,
-              "positive": 0.91
+              "neutral": 0.01,
+              "positive": 0.92
             },
             "completed": 6804
           }
@@ -5623,7 +5467,7 @@ const results =
           }
         }
       },
-      "price": 3219.08,
+      "price": 3499,
       "prices": {
         "id": "MLB1919875941",
         "prices": [
@@ -5643,32 +5487,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "58",
-            "type": "promotion",
-            "amount": 2869.18,
-            "regular_amount": 3499,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T20:02:03Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T19:57:02Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1919875941-b793aa1c-bc4b-4380-83b8-be02addac73f",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 349.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 3219.08
             }
           }
         ],
@@ -5714,7 +5532,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 308.84,
+        "amount": 335.7,
         "rate": 15.13,
         "currency_id": "BRL"
       },
@@ -5755,8 +5573,12 @@ const results =
       },
       "attributes": [
         {
-          "source": 3045741222775799,
           "value_struct": null,
+          "attribute_group_name": "Outros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "4Gamers",
           "values": [
             {
               "name": "4Gamers",
@@ -5766,32 +5588,33 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
-          "value_name": "4Gamers",
-          "attribute_group_name": "Outros",
-          "id": "BRAND",
-          "name": "Marca",
-          "value_id": null
+          "source": 3045741222775799
         },
         {
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 3045741222775799
-            }
-          ],
-          "source": 3045741222775799,
           "id": "ITEM_CONDITION",
           "name": "Condição do item",
-          "value_struct": null
+          "value_id": "2230284",
+          "attribute_group_name": "Outros",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 3045741222775799,
+              "id": "2230284",
+              "name": "Novo"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 3045741222775799
         },
         {
+          "id": "MODEL",
+          "value_name": "Gamer Starter Power",
           "value_struct": null,
+          "attribute_group_name": "Outros",
+          "name": "Modelo",
+          "value_id": null,
           "values": [
             {
               "id": null,
@@ -5800,16 +5623,11 @@ const results =
               "source": 3045741222775799
             }
           ],
-          "attribute_group_name": "Outros",
-          "source": 3045741222775799,
-          "id": "MODEL",
-          "name": "Modelo",
-          "value_id": null,
-          "value_name": "Gamer Starter Power",
-          "attribute_group_id": "OTHERS"
+          "attribute_group_id": "OTHERS",
+          "source": 3045741222775799
         }
       ],
-      "original_price": 3219.08,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 1587,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -5881,7 +5699,7 @@ const results =
           }
         }
       },
-      "price": 2391.08,
+      "price": 2599,
       "prices": {
         "id": "MLB1218701240",
         "prices": [
@@ -5904,12 +5722,12 @@ const results =
             }
           },
           {
-            "id": "128",
+            "id": "130",
             "type": "promotion",
             "amount": 2469.05,
             "regular_amount": 2599,
             "currency_id": "BRL",
-            "last_updated": "2021-11-26T20:27:42Z",
+            "last_updated": "2021-11-27T23:15:42Z",
             "conditions": {
               "context_restrictions": [
                 "channel_mshops"
@@ -5922,32 +5740,6 @@ const results =
             "metadata": {
               "promotion_id": "TR-225513622-20211110090225225:MLB1218701240",
               "promotion_type": "custom"
-            }
-          },
-          {
-            "id": "129",
-            "type": "promotion",
-            "amount": 2131.18,
-            "regular_amount": 2599,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T20:27:42Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T20:26:18Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1218701240-574bdfb4-213a-42c5-9ac0-a00ff834bb28",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 259.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2391.08
             }
           }
         ],
@@ -6011,7 +5803,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 199.26,
+        "amount": 216.58,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -6054,112 +5846,112 @@ const results =
       },
       "attributes": [
         {
-          "value_id": "7855833",
-          "value_name": "Intel",
-          "values": [
-            {
-              "struct": null,
-              "source": 9903,
-              "id": "7855833",
-              "name": "Intel"
-            }
-          ],
           "attribute_group_name": "Outros",
-          "source": 9903,
           "id": "BRAND",
           "name": "Marca",
           "value_struct": null,
-          "attribute_group_id": "OTHERS"
-        },
-        {
-          "name": "Condição do item",
-          "value_id": "2230284",
           "values": [
             {
-              "name": "Novo",
-              "struct": null,
-              "source": 1,
-              "id": "2230284"
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "ITEM_CONDITION",
-          "value_name": "Novo",
-          "value_struct": null
-        },
-        {
-          "values": [
-            {
-              "id": null,
-              "name": "i3",
+              "id": "7855833",
+              "name": "Intel",
               "struct": null,
               "source": 9903
             }
           ],
           "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
           "source": 9903,
-          "id": "MODEL",
-          "value_struct": null,
-          "value_name": "i3",
-          "name": "Modelo",
-          "value_id": null
+          "value_id": "7855833",
+          "value_name": "Intel"
         },
         {
+          "id": "ITEM_CONDITION",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 9903,
+          "value_name": "i3",
+          "values": [
+            {
+              "struct": null,
+              "source": 9903,
+              "id": null,
+              "name": "i3"
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "value_struct": {
+            "unit": "cm",
+            "number": 52.5
+          },
+          "attribute_group_id": "OTHERS",
           "id": "PACKAGE_LENGTH",
           "name": "Comprimento da embalagem",
           "value_id": null,
           "value_name": "52.5 cm",
-          "value_struct": {
-            "number": 52.5,
-            "unit": "cm"
-          },
           "values": [
             {
+              "id": null,
+              "name": "52.5 cm",
               "struct": {
                 "number": 52.5,
                 "unit": "cm"
               },
-              "source": 4333789534002961,
-              "id": null,
-              "name": "52.5 cm"
+              "source": 4333789534002961
             }
           ],
-          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
           "source": 4333789534002961
         },
         {
+          "value_name": "9530 g",
+          "attribute_group_id": "OTHERS",
+          "source": 4333789534002961,
+          "value_id": null,
+          "name": "Peso da embalagem",
           "value_struct": {
             "number": 9530,
             "unit": "g"
           },
           "values": [
             {
+              "source": 4333789534002961,
+              "id": null,
               "name": "9530 g",
               "struct": {
-                "unit": "g",
-                "number": 9530
-              },
-              "source": 4333789534002961,
-              "id": null
+                "number": 9530,
+                "unit": "g"
+              }
             }
           ],
-          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
-          "value_id": null,
-          "value_name": "9530 g",
-          "source": 4333789534002961,
-          "id": "PACKAGE_WEIGHT",
-          "name": "Peso da embalagem"
+          "id": "PACKAGE_WEIGHT"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2599,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": null,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -6210,28 +6002,28 @@ const results =
             },
             "delayed_handling_time": {
               "period": "60 days",
-              "rate": 0.0144,
+              "rate": 0.014,
               "value": 3
             },
             "sales": {
               "period": "60 days",
-              "completed": 205
+              "completed": 210
             }
           },
           "transactions": {
             "canceled": 148,
             "period": "historic",
-            "total": 1947,
+            "total": 1952,
             "ratings": {
               "negative": 0.01,
               "neutral": 0.01,
               "positive": 0.98
             },
-            "completed": 1799
+            "completed": 1804
           }
         }
       },
-      "price": 1821.6,
+      "price": 1801.8,
       "prices": {
         "id": "MLB1613404303",
         "prices": [
@@ -6254,12 +6046,12 @@ const results =
             }
           },
           {
-            "id": "111",
+            "id": "113",
             "type": "promotion",
             "amount": 1801.8,
             "regular_amount": 1980,
             "currency_id": "BRL",
-            "last_updated": "2021-11-27T02:27:57Z",
+            "last_updated": "2021-11-27T23:15:28Z",
             "conditions": {
               "context_restrictions": [
                 "channel_marketplace"
@@ -6273,32 +6065,6 @@ const results =
               "campaign_id": "MLB6630",
               "promotion_id": "MLB6630",
               "promotion_type": "campaign"
-            }
-          },
-          {
-            "id": "112",
-            "type": "promotion",
-            "amount": 1623.6,
-            "regular_amount": 1980,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-27T02:27:57Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T02:26:57Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1613404303-8390af79-8857-437d-ba8b-ffd01abded36",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 198,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1821.6
             }
           }
         ],
@@ -6362,7 +6128,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 151.8,
+        "amount": 150.15,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -6404,13 +6170,9 @@ const results =
       },
       "attributes": [
         {
-          "value_name": "INTEL CORE I5",
+          "value_struct": null,
           "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
-          "id": "BRAND",
-          "name": "Marca",
-          "value_id": null,
-          "value_struct": null,
           "values": [
             {
               "id": null,
@@ -6419,12 +6181,15 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "source": 2860837171021627
+          "source": 2860837171021627,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "INTEL CORE I5"
         },
         {
-          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
           "name": "Condição do item",
-          "value_name": "Novo",
           "values": [
             {
               "source": 2860837171021627,
@@ -6434,19 +6199,14 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
-          "id": "ITEM_CONDITION",
+          "attribute_group_name": "Outros",
           "value_id": "2230284",
+          "value_name": "Novo",
           "value_struct": null,
-          "attribute_group_name": "Outros"
+          "source": 2860837171021627
         },
         {
           "name": "Modelo",
-          "value_name": "CORE I5 3570",
-          "attribute_group_name": "Outros",
-          "source": 3376461333454861,
-          "id": "MODEL",
-          "value_id": null,
-          "value_struct": null,
           "values": [
             {
               "id": null,
@@ -6455,7 +6215,13 @@ const results =
               "source": 3376461333454861
             }
           ],
-          "attribute_group_id": "OTHERS"
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 3376461333454861,
+          "id": "MODEL",
+          "value_name": "CORE I5 3570",
+          "value_struct": null,
+          "value_id": null
         }
       ],
       "differential_pricing": {
@@ -6802,8 +6568,8 @@ const results =
             "total": 7083,
             "ratings": {
               "negative": 0.07,
-              "neutral": 0.02,
-              "positive": 0.91
+              "neutral": 0.01,
+              "positive": 0.92
             },
             "completed": 6804
           }
@@ -7397,7 +7163,7 @@ const results =
           }
         }
       },
-      "price": 1802.28,
+      "price": 1959,
       "prices": {
         "id": "MLB1532299476",
         "prices": [
@@ -7417,32 +7183,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "47",
-            "type": "promotion",
-            "amount": 1606.38,
-            "regular_amount": 1959,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:47:44Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:46:43Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1532299476-600ba7fe-1c64-4cd6-82ea-5c6bb0d0f0e6",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 195.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1802.28
             }
           }
         ],
@@ -7533,7 +7273,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 150.19,
+        "amount": 163.25,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -7574,11 +7314,12 @@ const results =
       },
       "attributes": [
         {
-          "attribute_group_name": "Outros",
-          "id": "BRAND",
           "name": "Marca",
-          "value_id": null,
           "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "value_id": null,
           "value_name": "Fácil Computadores",
           "values": [
             {
@@ -7588,15 +7329,17 @@ const results =
               "source": 4060709329251625
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "source": 4060709329251625
+          "attribute_group_id": "OTHERS"
         },
         {
-          "source": 6808261514773724,
-          "value_struct": null,
           "name": "Condição do item",
-          "value_id": "2230284",
           "value_name": "Novo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_struct": null,
           "values": [
             {
               "id": "2230284",
@@ -7604,17 +7347,13 @@ const results =
               "struct": null,
               "source": 6808261514773724
             }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "id": "ITEM_CONDITION"
+          ]
         },
         {
-          "id": "MODEL",
           "source": 6808261514773724,
+          "id": "MODEL",
           "name": "Modelo",
           "value_id": null,
-          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADO",
           "value_struct": null,
           "values": [
             {
@@ -7625,22 +7364,23 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
+          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADO",
           "attribute_group_name": "Outros"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 1959,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
+        "good_quality_thumbnail",
         "loyalty_discount_eligible",
         "brand_verified",
         "good_quality_picture",
-        "good_quality_thumbnail",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -7675,33 +7415,33 @@ const results =
             "cancellations": {
               "period": "60 days",
               "rate": 0.0009,
-              "value": 33
+              "value": 35
             },
             "claims": {
               "period": "60 days",
               "rate": 0.0087,
-              "value": 308
+              "value": 309
             },
             "delayed_handling_time": {
               "period": "60 days",
               "rate": 0.0342,
-              "value": 1161
+              "value": 1165
             },
             "sales": {
               "period": "60 days",
-              "completed": 33070
+              "completed": 33216
             }
           },
           "transactions": {
-            "canceled": 15456,
+            "canceled": 15468,
             "period": "historic",
-            "total": 228456,
+            "total": 228614,
             "ratings": {
               "negative": 0.04,
               "neutral": 0.02,
               "positive": 0.94
             },
-            "completed": 213000
+            "completed": 213146
           }
         }
       },
@@ -7784,8 +7524,8 @@ const results =
       },
       "sale_price": null,
       "currency_id": "BRL",
-      "available_quantity": 48,
-      "sold_quantity": 12037,
+      "available_quantity": 46,
+      "sold_quantity": 12039,
       "buying_mode": "buy_it_now",
       "listing_type_id": "gold_pro",
       "stop_time": "2040-11-11T04:00:00.000Z",
@@ -7838,8 +7578,7 @@ const results =
       },
       "attributes": [
         {
-          "id": "BRAND",
-          "value_id": "9597",
+          "value_struct": null,
           "values": [
             {
               "id": "9597",
@@ -7849,89 +7588,90 @@ const results =
             }
           ],
           "attribute_group_name": "Outros",
-          "name": "Marca",
-          "value_name": "Seagate",
-          "value_struct": null,
+          "id": "BRAND",
+          "value_id": "9597",
           "attribute_group_id": "OTHERS",
-          "source": 1
+          "source": 1,
+          "name": "Marca",
+          "value_name": "Seagate"
         },
         {
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
+          "name": "Condição do item",
           "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "source": 1,
+          "attribute_group_name": "Outros",
+          "id": "ITEM_CONDITION",
           "value_name": "Novo",
           "value_struct": null,
           "values": [
             {
-              "source": 1,
               "id": "2230284",
               "name": "Novo",
-              "struct": null
-            }
-          ],
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "source": 1
-        },
-        {
-          "value_id": "9614",
-          "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "LINE",
-          "name": "Linha",
-          "values": [
-            {
-              "id": "9614",
-              "name": "Expansion",
               "struct": null,
               "source": 1
             }
-          ],
-          "attribute_group_id": "OTHERS",
-          "value_name": "Expansion",
-          "value_struct": null
+          ]
         },
         {
+          "id": "LINE",
+          "name": "Linha",
+          "value_name": "Expansion",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 1,
+              "id": "9614",
+              "name": "Expansion"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_id": "9614",
+          "source": 1
+        },
+        {
+          "id": "MODEL",
+          "value_id": "7753079",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "attribute_group_id": "OTHERS",
           "name": "Modelo",
           "value_name": "STEA1000400",
           "value_struct": null,
-          "attribute_group_name": "Outros",
-          "id": "MODEL",
-          "value_id": "7753079",
           "values": [
             {
-              "id": "7753079",
-              "name": "STEA1000400",
               "struct": null,
-              "source": 1
+              "source": 1,
+              "id": "7753079",
+              "name": "STEA1000400"
             }
-          ],
-          "attribute_group_id": "OTHERS",
-          "source": 1
+          ]
         },
         {
+          "value_name": "0.17 kg",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "id": "WEIGHT",
           "name": "Peso",
-          "value_id": "8589331",
-          "value_name": "0.17 kg",
-          "value_struct": {
-            "number": 0.17,
-            "unit": "kg"
-          },
           "values": [
             {
-              "id": "8589331",
-              "name": "0.17 kg",
               "struct": {
                 "number": 0.17,
                 "unit": "kg"
               },
-              "source": 1
+              "source": 1,
+              "id": "8589331",
+              "name": "0.17 kg"
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 1
+          "source": 1,
+          "value_id": "8589331",
+          "value_struct": {
+            "number": 0.17,
+            "unit": "kg"
+          }
         }
       ],
       "differential_pricing": {
@@ -8346,7 +8086,7 @@ const results =
           }
         }
       },
-      "price": 955.88,
+      "price": 1039,
       "prices": {
         "id": "MLB1759325348",
         "prices": [
@@ -8366,32 +8106,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "37",
-            "type": "promotion",
-            "amount": 851.98,
-            "regular_amount": 1039,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:52:55Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:51:54Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1759325348-0532fd7d-de12-4e71-8c87-24123b0f3444",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 103.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 955.88
             }
           }
         ],
@@ -8425,7 +8139,7 @@ const results =
       },
       "sale_price": null,
       "currency_id": "BRL",
-      "available_quantity": 150,
+      "available_quantity": 100,
       "sold_quantity": 250,
       "buying_mode": "buy_it_now",
       "listing_type_id": "gold_special",
@@ -8437,7 +8151,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 91.71,
+        "amount": 99.68,
         "rate": 15.13,
         "currency_id": "BRL"
       },
@@ -8478,31 +8192,29 @@ const results =
       },
       "attributes": [
         {
-          "id": "BRAND",
-          "attribute_group_id": "OTHERS",
-          "source": 4060709329251625,
-          "name": "Marca",
-          "value_id": null,
-          "value_name": "Fácil Computadores",
-          "value_struct": null,
           "values": [
             {
+              "source": 4060709329251625,
               "id": null,
               "name": "Fácil Computadores",
-              "struct": null,
-              "source": 4060709329251625
+              "struct": null
             }
           ],
-          "attribute_group_name": "Outros"
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "value_name": "Fácil Computadores",
+          "value_struct": null,
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
+          "name": "Marca"
         },
         {
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
+          "source": 2860837171021627,
           "id": "ITEM_CONDITION",
-          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_struct": null,
           "values": [
             {
               "id": "2230284",
@@ -8511,37 +8223,39 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "source": 2860837171021627
+          "name": "Condição do item",
+          "value_name": "Novo",
+          "attribute_group_id": "OTHERS"
         },
         {
-          "name": "Modelo",
+          "id": "MODEL",
           "value_id": null,
+          "source": 2860837171021627,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "name": "Modelo",
           "value_name": "GABINETE MINI TOWER ULTRA MX",
           "value_struct": null,
           "values": [
             {
-              "id": null,
               "name": "GABINETE MINI TOWER ULTRA MX",
               "struct": null,
-              "source": 2860837171021627
+              "source": 2860837171021627,
+              "id": null
             }
-          ],
-          "source": 2860837171021627,
-          "id": "MODEL",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
+          ]
         }
       ],
-      "original_price": 1039,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
         "brand_verified",
         "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -9206,33 +8920,33 @@ const results =
             },
             "claims": {
               "period": "60 days",
-              "rate": 0.0101,
+              "rate": 0.01,
               "value": 7
             },
             "delayed_handling_time": {
               "period": "60 days",
-              "rate": 0.0401,
+              "rate": 0.0398,
               "value": 27
             },
             "sales": {
               "period": "60 days",
-              "completed": 657
+              "completed": 662
             }
           },
           "transactions": {
             "canceled": 292,
             "period": "historic",
-            "total": 5031,
+            "total": 5036,
             "ratings": {
               "negative": 0.02,
               "neutral": 0,
               "positive": 0.98
             },
-            "completed": 4739
+            "completed": 4744
           }
         }
       },
-      "price": 1667.87,
+      "price": 1649.73,
       "prices": {
         "id": "MLB1830025703",
         "prices": [
@@ -9255,12 +8969,12 @@ const results =
             }
           },
           {
-            "id": "89",
+            "id": "91",
             "type": "promotion",
             "amount": 1649.73,
             "regular_amount": 1812.9,
             "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:43:41Z",
+            "last_updated": "2021-11-27T23:15:35Z",
             "conditions": {
               "context_restrictions": [
                 "channel_marketplace"
@@ -9274,32 +8988,6 @@ const results =
               "campaign_id": "MLB6630",
               "promotion_id": "MLB6630",
               "promotion_type": "campaign"
-            }
-          },
-          {
-            "id": "90",
-            "type": "promotion",
-            "amount": 1486.58,
-            "regular_amount": 1812.9,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:43:41Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:42:40Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1830025703-74892a89-c1c0-488b-93ed-40ee96b39048",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 181.29,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1667.87
             }
           }
         ],
@@ -9363,7 +9051,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 138.99,
+        "amount": 137.48,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -9405,57 +9093,57 @@ const results =
       "attributes": [
         {
           "name": "Marca",
+          "value_id": null,
           "value_name": "TechPower",
           "values": [
             {
-              "struct": null,
-              "source": 3045741222775799,
               "id": null,
-              "name": "TechPower"
+              "name": "TechPower",
+              "struct": null,
+              "source": 3045741222775799
             }
           ],
           "attribute_group_name": "Outros",
-          "source": 3045741222775799,
           "id": "BRAND",
-          "value_id": null,
-          "value_struct": null,
-          "attribute_group_id": "OTHERS"
-        },
-        {
           "value_struct": null,
           "attribute_group_id": "OTHERS",
+          "source": 3045741222775799
+        },
+        {
           "id": "ITEM_CONDITION",
+          "value_struct": null,
+          "source": 3045741222775799,
+          "attribute_group_name": "Outros",
           "name": "Condição do item",
           "value_id": "2230284",
           "value_name": "Novo",
           "values": [
             {
-              "source": 3045741222775799,
               "id": "2230284",
               "name": "Novo",
-              "struct": null
+              "struct": null,
+              "source": 3045741222775799
             }
           ],
-          "attribute_group_name": "Outros",
-          "source": 3045741222775799
+          "attribute_group_id": "OTHERS"
         },
         {
-          "name": "Modelo",
-          "value_id": null,
           "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "id": "MODEL",
           "values": [
             {
-              "source": 3045741222775799,
               "id": null,
               "name": "Desktop",
-              "struct": null
+              "struct": null,
+              "source": 3045741222775799
             }
           ],
+          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
-          "source": 3045741222775799,
-          "value_name": "Desktop"
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Desktop",
+          "source": 3045741222775799
         }
       ],
       "differential_pricing": {
@@ -9467,9 +9155,9 @@ const results =
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
+        "good_quality_picture",
         "good_quality_thumbnail",
         "loyalty_discount_eligible",
-        "good_quality_picture",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed",
@@ -9548,7 +9236,7 @@ const results =
           }
         }
       },
-      "price": 3363.61,
+      "price": 3327.05,
       "prices": {
         "id": "MLB1520608329",
         "prices": [
@@ -9571,12 +9259,12 @@ const results =
             }
           },
           {
-            "id": "159",
+            "id": "161",
             "type": "promotion",
             "amount": 3327.05,
             "regular_amount": 3656.1,
             "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:31:58Z",
+            "last_updated": "2021-11-27T23:15:27Z",
             "conditions": {
               "context_restrictions": [
                 "channel_marketplace"
@@ -9590,32 +9278,6 @@ const results =
               "campaign_id": "MLB6630",
               "promotion_id": "MLB6630",
               "promotion_type": "campaign"
-            }
-          },
-          {
-            "id": "160",
-            "type": "promotion",
-            "amount": 2998,
-            "regular_amount": 3656.1,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:31:58Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:30:57Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1520608329-52fbe795-d633-4ecd-afe0-8ae329934e02",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 365.61,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 3363.61
             }
           }
         ],
@@ -9679,7 +9341,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 280.3,
+        "amount": 277.25,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -9720,42 +9382,10 @@ const results =
       },
       "attributes": [
         {
-          "value_struct": null,
-          "values": [
-            {
-              "name": "NoLag",
-              "struct": null,
-              "source": 2860837171021627,
-              "id": null
-            }
-          ],
-          "id": "BRAND",
-          "name": "Marca",
-          "value_id": null,
-          "source": 2860837171021627,
-          "value_name": "NoLag",
           "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
-        },
-        {
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "value_struct": null,
           "attribute_group_name": "Outros",
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "source": 2860837171021627
-        },
-        {
+          "source": 2860837171021627,
+          "id": "BRAND",
           "value_struct": null,
           "values": [
             {
@@ -9765,13 +9395,45 @@ const results =
               "source": 2860837171021627
             }
           ],
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "NoLag"
+        },
+        {
+          "value_name": "Novo",
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "name": "Condição do item"
+        },
+        {
+          "id": "MODEL",
+          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
           "source": 2860837171021627,
-          "id": "MODEL",
           "name": "Modelo",
           "value_id": null,
           "value_name": "NoLag",
-          "attribute_group_id": "OTHERS"
+          "value_struct": null,
+          "values": [
+            {
+              "name": "NoLag",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ]
         }
       ],
       "differential_pricing": {
@@ -10175,8 +9837,8 @@ const results =
       },
       "sale_price": null,
       "currency_id": "BRL",
-      "available_quantity": 139,
-      "sold_quantity": 978,
+      "available_quantity": 137,
+      "sold_quantity": 980,
       "buying_mode": "buy_it_now",
       "listing_type_id": "gold_special",
       "stop_time": "2041-10-13T21:23:58.000Z",
@@ -10228,24 +9890,26 @@ const results =
       },
       "attributes": [
         {
-          "id": "BRAND",
-          "value_id": "16360",
-          "value_name": "Kingston",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
           "name": "Marca",
+          "value_id": "16360",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "id": "BRAND",
+          "value_name": "Kingston",
           "value_struct": null,
           "values": [
             {
-              "source": 1,
               "id": "16360",
               "name": "Kingston",
-              "struct": null
+              "struct": null,
+              "source": 1
             }
           ],
-          "source": 1
+          "attribute_group_id": "OTHERS"
         },
         {
+          "name": "Condição do item",
+          "value_struct": null,
           "values": [
             {
               "id": "2230284",
@@ -10254,74 +9918,72 @@ const results =
               "source": 7092
             }
           ],
-          "attribute_group_name": "Outros",
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
           "source": 7092,
           "id": "ITEM_CONDITION",
-          "value_name": "Novo"
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
         },
         {
-          "source": 1,
           "id": "LINE",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "name": "Linha",
           "value_id": "7732401",
           "value_name": "A400",
+          "value_struct": null,
           "values": [
             {
-              "struct": null,
-              "source": 1,
               "id": "7732401",
-              "name": "A400"
+              "name": "A400",
+              "struct": null,
+              "source": 1
             }
           ],
-          "attribute_group_name": "Outros",
-          "name": "Linha",
-          "value_struct": null,
           "attribute_group_id": "OTHERS"
         },
         {
+          "value_id": "7731781",
           "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "source": 1,
           "id": "MODEL",
           "name": "Modelo",
           "value_name": "SA400S37/480G",
-          "attribute_group_name": "Outros",
-          "value_id": "7731781",
           "values": [
             {
+              "id": "7731781",
               "name": "SA400S37/480G",
               "struct": null,
-              "source": 1,
-              "id": "7731781"
+              "source": 1
             }
-          ],
-          "attribute_group_id": "OTHERS"
+          ]
         },
         {
-          "value_name": "41 g",
           "values": [
             {
-              "id": "8610993",
               "name": "41 g",
               "struct": {
                 "number": 41,
                 "unit": "g"
               },
-              "source": 1
+              "source": 1,
+              "id": "8610993"
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "WEIGHT",
           "name": "Peso",
           "value_id": "8610993",
+          "value_name": "41 g",
           "value_struct": {
             "number": 41,
             "unit": "g"
-          }
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "id": "WEIGHT"
         }
       ],
       "original_price": null,
@@ -10330,8 +9992,8 @@ const results =
       "domain_id": "MLB-HARD_DRIVES_AND_SSDS",
       "catalog_product_id": "MLB17978326",
       "tags": [
-        "good_quality_picture",
         "loyalty_discount_eligible",
+        "good_quality_picture",
         "immediate_payment",
         "cart_eligible",
         "best_seller_candidate",
@@ -10923,7 +10585,7 @@ const results =
           }
         }
       },
-      "price": 2042.31,
+      "price": 2219.9,
       "prices": {
         "id": "MLB1680063928",
         "prices": [
@@ -10943,32 +10605,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "102",
-            "type": "promotion",
-            "amount": 1820.32,
-            "regular_amount": 2219.9,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-27T11:42:26Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T11:39:53Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1680063928-cbe622df-e4bb-4f86-ab1c-f2ec2e5a7de4",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 221.99,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2042.31
             }
           }
         ],
@@ -11032,7 +10668,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 170.19,
+        "amount": 184.99,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -11073,11 +10709,12 @@ const results =
       },
       "attributes": [
         {
-          "id": "BRAND",
           "name": "Marca",
-          "value_name": "TechPower",
           "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
           "value_id": null,
+          "value_name": "TechPower",
           "values": [
             {
               "id": null,
@@ -11086,33 +10723,32 @@ const results =
               "source": 2860837171021627
             }
           ],
-          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
           "source": 2860837171021627
         },
         {
-          "id": "ITEM_CONDITION",
           "name": "Condição do item",
+          "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
           "value_name": "Novo",
           "value_struct": null,
           "values": [
             {
-              "id": "2230284",
               "name": "Novo",
               "struct": null,
-              "source": 2860837171021627
+              "source": 2860837171021627,
+              "id": "2230284"
             }
-          ],
-          "attribute_group_name": "Outros",
-          "value_id": "2230284",
-          "attribute_group_id": "OTHERS",
-          "source": 2860837171021627
+          ]
         },
         {
           "id": "MODEL",
           "name": "Modelo",
           "value_id": null,
-          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
           "value_name": "Desktop",
           "value_struct": null,
           "values": [
@@ -11124,13 +10760,13 @@ const results =
             }
           ],
           "attribute_group_id": "OTHERS",
-          "source": 2860837171021627
+          "attribute_group_name": "Outros"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2219.9,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": null,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -11846,7 +11482,7 @@ const results =
           }
         }
       },
-      "price": 2161.08,
+      "price": 2349,
       "prices": {
         "id": "MLB1532316085",
         "prices": [
@@ -11866,32 +11502,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "49",
-            "type": "promotion",
-            "amount": 1926.18,
-            "regular_amount": 2349,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T19:02:35Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T19:01:34Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1532316085-7b51be82-cccd-4ae3-840d-24f64d4c0302",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 234.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2161.08
             }
           }
         ],
@@ -11982,7 +11592,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 180.09,
+        "amount": 195.75,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -12024,8 +11634,13 @@ const results =
       "attributes": [
         {
           "name": "Marca",
+          "value_id": null,
           "value_name": "Fácil Computadores",
           "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "attribute_group_id": "OTHERS",
           "values": [
             {
               "name": "Fácil Computadores",
@@ -12033,63 +11648,58 @@ const results =
               "source": 4060709329251625,
               "id": null
             }
-          ],
-          "id": "BRAND",
-          "value_id": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 4060709329251625
+          ]
         },
         {
-          "source": 2860837171021627,
           "id": "ITEM_CONDITION",
           "name": "Condição do item",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
           "value_id": "2230284",
           "value_name": "Novo",
           "values": [
             {
-              "id": "2230284",
               "name": "Novo",
               "struct": null,
-              "source": 2860837171021627
-            }
-          ]
-        },
-        {
-          "id": "MODEL",
-          "value_id": null,
-          "value_name": "Computador completo",
-          "value_struct": null,
-          "source": 3376461333454861,
-          "name": "Modelo",
-          "values": [
-            {
-              "name": "Computador completo",
-              "struct": null,
-              "source": 3376461333454861,
-              "id": null
+              "source": 2860837171021627,
+              "id": "2230284"
             }
           ],
           "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
+          "value_struct": null,
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627
+        },
+        {
+          "name": "Modelo",
+          "value_id": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 3376461333454861,
+              "id": null,
+              "name": "Computador completo"
+            }
+          ],
+          "source": 3376461333454861,
+          "id": "MODEL",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "value_name": "Computador completo"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 2349,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
-        "brand_verified",
-        "good_quality_picture",
         "good_quality_thumbnail",
         "loyalty_discount_eligible",
+        "brand_verified",
+        "good_quality_picture",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -12155,7 +11765,7 @@ const results =
           }
         }
       },
-      "price": 1682.68,
+      "price": 1829,
       "prices": {
         "id": "MLB1618845463",
         "prices": [
@@ -12175,32 +11785,6 @@ const results =
             },
             "exchange_rate_context": "DEFAULT",
             "metadata": {
-            }
-          },
-          {
-            "id": "31",
-            "type": "promotion",
-            "amount": 1499.78,
-            "regular_amount": 1829,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:35:19Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:34:18Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1618845463-1ff13658-d772-485b-aadc-675c63b045fc",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 182.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1682.68
             }
           }
         ],
@@ -12246,7 +11830,7 @@ const results =
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 140.22,
+        "amount": 152.42,
         "rate": 0,
         "currency_id": "BRL"
       },
@@ -12287,29 +11871,27 @@ const results =
       },
       "attributes": [
         {
-          "attribute_group_name": "Outros",
-          "source": 4060709329251625,
-          "id": "BRAND",
-          "name": "Marca",
-          "value_name": "Fácil Computadores",
-          "value_struct": null,
-          "value_id": null,
           "values": [
             {
+              "id": null,
               "name": "Fácil Computadores",
               "struct": null,
-              "source": 4060709329251625,
-              "id": null
+              "source": 4060709329251625
             }
           ],
-          "attribute_group_id": "OTHERS"
+          "attribute_group_name": "Outros",
+          "value_struct": null,
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Fácil Computadores",
+          "attribute_group_id": "OTHERS",
+          "source": 4060709329251625,
+          "id": "BRAND"
         },
         {
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "name": "Condição do item",
+          "id": "ITEM_CONDITION",
           "value_id": "2230284",
-          "value_name": "Novo",
+          "value_struct": null,
           "values": [
             {
               "struct": null,
@@ -12318,33 +11900,35 @@ const results =
               "name": "Novo"
             }
           ],
-          "attribute_group_id": "OTHERS",
-          "id": "ITEM_CONDITION",
-          "value_struct": null
-        },
-        {
+          "name": "Condição do item",
+          "value_name": "Novo",
           "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
+          "source": 2860837171021627
+        },
+        {
+          "id": "MODEL",
           "name": "Modelo",
-          "value_name": "Gabinete Tower ATX",
           "values": [
             {
+              "id": null,
               "name": "Gabinete Tower ATX",
               "struct": null,
-              "source": 3376461333454861,
-              "id": null
+              "source": 3376461333454861
             }
           ],
+          "attribute_group_id": "OTHERS",
           "source": 3376461333454861,
-          "id": "MODEL",
           "value_id": null,
-          "value_struct": null
+          "value_name": "Gabinete Tower ATX",
+          "value_struct": null,
+          "attribute_group_name": "Outros"
         }
       ],
       "differential_pricing": {
         "id": 33580182
       },
-      "original_price": 1829,
+      "original_price": null,
       "category_id": "MLB1649",
       "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
@@ -12388,33 +11972,33 @@ const results =
             "cancellations": {
               "period": "60 days",
               "rate": 0.0009,
-              "value": 33
+              "value": 35
             },
             "claims": {
               "period": "60 days",
               "rate": 0.0087,
-              "value": 308
+              "value": 309
             },
             "delayed_handling_time": {
               "period": "60 days",
               "rate": 0.0342,
-              "value": 1161
+              "value": 1165
             },
             "sales": {
               "period": "60 days",
-              "completed": 33070
+              "completed": 33216
             }
           },
           "transactions": {
-            "canceled": 15456,
+            "canceled": 15468,
             "period": "historic",
-            "total": 228456,
+            "total": 228614,
             "ratings": {
               "negative": 0.04,
               "neutral": 0.02,
               "positive": 0.94
             },
-            "completed": 213000
+            "completed": 213146
           }
         }
       },
@@ -12692,6 +12276,244 @@ const results =
       "winner_item_id": null
     },
     {
+      "id": "MLB1714889803",
+      "site_id": "MLB",
+      "title": "Pc Completo Fácil Intel I3 04gb Hd 500gb + Monitor Led 15''",
+      "seller": {
+        "id": 339584170,
+        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
+        "registration_date": "2018-07-25T08:43:54.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 2
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0261,
+              "value": 159
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0552,
+              "value": 327
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5836
+            }
+          },
+          "transactions": {
+            "canceled": 1683,
+            "period": "historic",
+            "total": 36137,
+            "ratings": {
+              "negative": 0.08,
+              "neutral": 0.02,
+              "positive": 0.9
+            },
+            "completed": 34454
+          }
+        }
+      },
+      "price": 1989,
+      "prices": {
+        "id": "MLB1714889803",
+        "prices": [
+          {
+            "id": "14",
+            "type": "standard",
+            "amount": 1989,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-08-26T21:05:07Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "22",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-05T04:31:15Z",
+              "end_time": "2021-11-12T04:31:15Z",
+              "eligible": true
+            },
+            "amount": 1750.32,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-05T04:31:15Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 150,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2040-11-06T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1714889803-pc-completo-facil-intel-i3-04gb-hd-500gb-monitor-led-15-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_886634-MLB46850053698_072021-I.jpg",
+      "thumbnail_id": "886634-MLB46850053698_072021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 165.75,
+        "rate": 0,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-MG",
+        "state_name": "Minas Gerais",
+        "city_id": "TUxCQ0JFTGU0ODdm",
+        "city_name": "Belo Horizonte"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-MG",
+          "name": "Minas Gerais"
+        },
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_id": null,
+          "values": [
+            {
+              "id": null,
+              "name": "COMPUTADOR FÁCIL",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "COMPUTADOR FÁCIL",
+          "value_struct": null
+        },
+        {
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627,
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "id": "ITEM_CONDITION",
+          "value_name": "Novo"
+        },
+        {
+          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADO",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "MODEL",
+          "value_id": null,
+          "values": [
+            {
+              "id": null,
+              "name": "KIT I3 + MONITOR + MOUSE E TECLADO",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627,
+          "name": "Modelo"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33580182
+      },
+      "original_price": null,
+      "category_id": "MLB1649",
+      "official_store_id": 3808,
+      "domain_id": "MLB-DESKTOP_COMPUTERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 43,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    },
+    {
       "id": "MLB1785485603",
       "site_id": "MLB",
       "title": "Pc Gamer Intel I5 / 16gb / Ssd 240 / Gforce Gt 1030 2gb",
@@ -12934,270 +12756,6 @@ const results =
         "good_quality_thumbnail",
         "loyalty_discount_eligible",
         "good_quality_picture",
-        "immediate_payment",
-        "cart_eligible",
-        "shipping_guaranteed"
-      ],
-      "order_backend": 43,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null
-    },
-    {
-      "id": "MLB1714889803",
-      "site_id": "MLB",
-      "title": "Pc Completo Fácil Intel I3 04gb Hd 500gb + Monitor Led 15''",
-      "seller": {
-        "id": 339584170,
-        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
-        "registration_date": "2018-07-25T08:43:54.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "mshops",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 2
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0261,
-              "value": 159
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0552,
-              "value": 327
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 5836
-            }
-          },
-          "transactions": {
-            "canceled": 1683,
-            "period": "historic",
-            "total": 36137,
-            "ratings": {
-              "negative": 0.08,
-              "neutral": 0.02,
-              "positive": 0.9
-            },
-            "completed": 34454
-          }
-        }
-      },
-      "price": 1829.88,
-      "prices": {
-        "id": "MLB1714889803",
-        "prices": [
-          {
-            "id": "14",
-            "type": "standard",
-            "amount": 1989,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-08-26T21:05:07Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          },
-          {
-            "id": "24",
-            "type": "promotion",
-            "amount": 1630.98,
-            "regular_amount": 1989,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:48:13Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:47:13Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1714889803-5ca04bf5-48ae-4685-8d95-e606c2e55b34",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 198.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 1829.88
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-        ],
-        "reference_prices": [
-          {
-            "id": "22",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-05T04:31:15Z",
-              "end_time": "2021-11-12T04:31:15Z",
-              "eligible": true
-            },
-            "amount": 1750.32,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-05T04:31:15Z"
-          }
-        ],
-        "purchase_discounts": [
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 150,
-      "sold_quantity": 250,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2040-11-06T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1714889803-pc-completo-facil-intel-i3-04gb-hd-500gb-monitor-led-15-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_886634-MLB46850053698_072021-I.jpg",
-      "thumbnail_id": "886634-MLB46850053698_072021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 152.49,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_struct": null,
-          "id": "BRAND",
-          "value_id": null,
-          "values": [
-            {
-              "id": null,
-              "name": "COMPUTADOR FÁCIL",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "name": "Marca",
-          "value_name": "COMPUTADOR FÁCIL"
-        },
-        {
-          "value_struct": null,
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "attribute_group_id": "OTHERS",
-          "source": 2860837171021627,
-          "value_id": "2230284",
-          "value_name": "Novo"
-        },
-        {
-          "value_name": "KIT I3 + MONITOR + MOUSE E TECLADO",
-          "value_struct": null,
-          "source": 2860837171021627,
-          "id": "MODEL",
-          "name": "Modelo",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "value_id": null,
-          "values": [
-            {
-              "source": 2860837171021627,
-              "id": null,
-              "name": "KIT I3 + MONITOR + MOUSE E TECLADO",
-              "struct": null
-            }
-          ]
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": 1989,
-      "category_id": "MLB1649",
-      "official_store_id": 3808,
-      "domain_id": "MLB-DESKTOP_COMPUTERS",
-      "catalog_product_id": null,
-      "tags": [
-        "brand_verified",
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
         "immediate_payment",
         "cart_eligible",
         "shipping_guaranteed"
@@ -13464,6 +13022,923 @@ const results =
       "offer_share": null,
       "match_score": null,
       "winner_item_id": null
+    },
+    {
+      "id": "MLB1549231499",
+      "site_id": "MLB",
+      "title": "Computador Completo Fácil Intel I5 08 Gb Ddr3 Hd 500 Gb",
+      "seller": {
+        "id": 339584170,
+        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
+        "registration_date": "2018-07-25T08:43:54.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 2
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0261,
+              "value": 159
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0552,
+              "value": 327
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5836
+            }
+          },
+          "transactions": {
+            "canceled": 1683,
+            "period": "historic",
+            "total": 36137,
+            "ratings": {
+              "negative": 0.08,
+              "neutral": 0.02,
+              "positive": 0.9
+            },
+            "completed": 34454
+          }
+        }
+      },
+      "price": 2199,
+      "prices": {
+        "id": "MLB1549231499",
+        "prices": [
+          {
+            "id": "31",
+            "type": "standard",
+            "amount": 2199,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-24T17:18:33Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+          {
+            "id": "25867526-dae5-4850-a427-83f5acba92ff",
+            "conditions": {
+              "allowed_methods": [
+                {
+                  "id": "pix",
+                  "issuer_id": null,
+                  "payment_type_id": "bank_transfer",
+                  "installments": null
+                }
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "restricted_to_prices": [
+              ]
+            },
+            "value": 5,
+            "type": "percentage",
+            "currency_id": null,
+            "metadata": {
+              "purchase_discount_id": "MLB465001",
+              "purchase_discount_type": "BD",
+              "purchase_discount_campaign_id": "P-MLB3042001",
+              "purchase_discount_rebate_id": "MLB1549231499-4bac148c-f20a-405a-bfff-9ee9c6c5090f"
+            },
+            "exchange_rate_context": "DEFAULT"
+          }
+        ],
+        "reference_prices": [
+          {
+            "id": "33",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-26T05:03:23Z",
+              "end_time": "2021-12-03T05:03:23Z",
+              "eligible": true
+            },
+            "amount": 2093.52,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-26T05:03:23Z"
+          }
+        ],
+        "purchase_discounts": [
+          {
+            "purchase_discount_id": "MLB465001",
+            "campaign_id": "P-MLB3042001",
+            "rebate_id": "MLB1549231499-4bac148c-f20a-405a-bfff-9ee9c6c5090f",
+            "type": "BD",
+            "discount_percentage": 0.05,
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "eligible": true
+            },
+            "purchase_min_amount": 0,
+            "max_discount_amount": 1000,
+            "max_benefit_count": 1
+          }
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 150,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2040-05-31T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1549231499-computador-completo-facil-intel-i5-08-gb-ddr3-hd-500-gb-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_755775-MLB46851004581_072021-I.jpg",
+      "thumbnail_id": "755775-MLB46851004581_072021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 183.25,
+        "rate": 0,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-MG",
+        "state_name": "Minas Gerais",
+        "city_id": "TUxCQ0JFTGU0ODdm",
+        "city_name": "Belo Horizonte"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-MG",
+          "name": "Minas Gerais"
+        },
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_struct": null,
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Fácil Computadores",
+          "values": [
+            {
+              "id": null,
+              "name": "Fácil Computadores",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
+        },
+        {
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_id": "2230284",
+          "value_struct": null,
+          "value_name": "Novo",
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item"
+        },
+        {
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "value_id": null,
+          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "source": 2860837171021627,
+          "id": "MODEL",
+          "name": "Modelo"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33580182
+      },
+      "original_price": null,
+      "category_id": "MLB1649",
+      "official_store_id": 3808,
+      "domain_id": "MLB-DESKTOP_COMPUTERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 46,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    },
+    {
+      "id": "MLB1570172545",
+      "site_id": "MLB",
+      "title": "Computador Completo Fácil Intel Core I5 08gb Ddr3 Ssd 240 Gb",
+      "seller": {
+        "id": 339584170,
+        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
+        "registration_date": "2018-07-25T08:43:54.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 2
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0261,
+              "value": 159
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0552,
+              "value": 327
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5836
+            }
+          },
+          "transactions": {
+            "canceled": 1683,
+            "period": "historic",
+            "total": 36137,
+            "ratings": {
+              "negative": 0.08,
+              "neutral": 0.02,
+              "positive": 0.9
+            },
+            "completed": 34454
+          }
+        }
+      },
+      "price": 2329,
+      "prices": {
+        "id": "MLB1570172545",
+        "prices": [
+          {
+            "id": "40",
+            "type": "standard",
+            "amount": 2329,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-24T17:18:36Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+          {
+            "id": "6397d2a0-d863-4a11-861e-e48fc0e0da29",
+            "conditions": {
+              "allowed_methods": [
+                {
+                  "id": "pix",
+                  "issuer_id": null,
+                  "payment_type_id": "bank_transfer",
+                  "installments": null
+                }
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "restricted_to_prices": [
+              ]
+            },
+            "value": 5,
+            "type": "percentage",
+            "currency_id": null,
+            "metadata": {
+              "purchase_discount_id": "MLB465001",
+              "purchase_discount_type": "BD",
+              "purchase_discount_campaign_id": "P-MLB3042001",
+              "purchase_discount_rebate_id": "MLB1570172545-f70b5b7f-be84-4efd-8597-90b0c7809e91"
+            },
+            "exchange_rate_context": "DEFAULT"
+          }
+        ],
+        "reference_prices": [
+          {
+            "id": "39",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-22T04:57:47Z",
+              "end_time": "2021-11-29T04:57:47Z",
+              "eligible": true
+            },
+            "amount": 2229,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-22T04:57:47Z"
+          }
+        ],
+        "purchase_discounts": [
+          {
+            "purchase_discount_id": "MLB465001",
+            "campaign_id": "P-MLB3042001",
+            "rebate_id": "MLB1570172545-f70b5b7f-be84-4efd-8597-90b0c7809e91",
+            "type": "BD",
+            "discount_percentage": 0.05,
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-27T22:00:00Z",
+              "end_time": "2021-12-01T02:00:00Z",
+              "eligible": true
+            },
+            "purchase_min_amount": 0,
+            "max_discount_amount": 1000,
+            "max_benefit_count": 1
+          }
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 150,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2040-06-19T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1570172545-computador-completo-facil-intel-core-i5-08gb-ddr3-ssd-240-gb-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_772133-MLB46868464462_072021-I.jpg",
+      "thumbnail_id": "772133-MLB46868464462_072021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 194.08,
+        "rate": 0,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-MG",
+        "state_name": "Minas Gerais",
+        "city_id": "TUxCQ0JFTGU0ODdm",
+        "city_name": "Belo Horizonte"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-MG",
+          "name": "Minas Gerais"
+        },
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_name": "Outros",
+          "source": 4060709329251625,
+          "name": "Marca",
+          "value_name": "Fácil Computadores",
+          "values": [
+            {
+              "id": null,
+              "name": "Fácil Computadores",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
+          "value_id": null,
+          "value_struct": null
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condição do item",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627,
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "attribute_group_name": "Outros"
+        },
+        {
+          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627,
+          "id": "MODEL",
+          "value_id": null,
+          "attribute_group_name": "Outros",
+          "name": "Modelo",
+          "attribute_group_id": "OTHERS"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33580182
+      },
+      "original_price": null,
+      "category_id": "MLB1649",
+      "official_store_id": 3808,
+      "domain_id": "MLB-DESKTOP_COMPUTERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 47,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null
+    },
+    {
+      "id": "MLB1662949840",
+      "site_id": "MLB",
+      "title": "Disco Rígido Externo Seagate Expansion Stea2000400 2tb Preto",
+      "seller": {
+        "id": 246756278,
+        "permalink": "http://perfil.mercadolivre.com.br/INPOWER+INFO",
+        "registration_date": "2017-03-13T11:36:21.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0009,
+              "value": 35
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0087,
+              "value": 309
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0342,
+              "value": 1165
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 33216
+            }
+          },
+          "transactions": {
+            "canceled": 15468,
+            "period": "historic",
+            "total": 228614,
+            "ratings": {
+              "negative": 0.04,
+              "neutral": 0.02,
+              "positive": 0.94
+            },
+            "completed": 213146
+          }
+        }
+      },
+      "price": 464.06,
+      "prices": {
+        "id": "MLB1662949840",
+        "prices": [
+          {
+            "id": "62",
+            "type": "standard",
+            "amount": 498.99,
+            "regular_amount": null,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-04T19:39:32Z",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            }
+          },
+          {
+            "id": "68",
+            "type": "promotion",
+            "amount": 439.11,
+            "regular_amount": 498.99,
+            "currency_id": "BRL",
+            "last_updated": "2021-11-27T07:15:54Z",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-27T07:14:48Z",
+              "end_time": "2021-11-30T02:00:00Z",
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "campaign_id": "P-MLB2998002",
+              "promotion_id": "MLB1662949840-2da7d712-c259-4ef8-8c0e-a1e2cc4ba36f",
+              "promotion_type": "marketplace_campaign",
+              "discount_meli_amount": 24.95,
+              "campaign_discount_percentage": 12,
+              "campaign_end_date": "2021-11-30T02:00:00Z",
+              "order_item_price": 464.06
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "BRL"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "67",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2021-11-27T04:42:41Z",
+              "end_time": "2021-12-04T04:42:41Z",
+              "eligible": true
+            },
+            "amount": 575.91,
+            "currency_id": "BRL",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-11-27T04:42:41Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "BRL",
+      "available_quantity": 319,
+      "sold_quantity": 1868,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-09-16T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://www.mercadolivre.com.br/disco-rigido-externo-seagate-expansion-stea2000400-2tb-preto/p/MLB6085399",
+      "thumbnail": "http://http2.mlstatic.com/D_602773-MLA40178190282_122019-I.jpg",
+      "thumbnail_id": "602773-MLA40178190282_122019",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 44.52,
+        "rate": 15.13,
+        "currency_id": "BRL"
+      },
+      "address": {
+        "state_id": "BR-SP",
+        "state_name": "São Paulo",
+        "city_id": "BR-SP-44",
+        "city_name": "São Paulo"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "BR",
+          "name": "Brasil"
+        },
+        "state": {
+          "id": "BR-SP",
+          "name": "São Paulo"
+        },
+        "city": {
+          "id": "BR-SP-44",
+          "name": "São Paulo"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": "9597",
+          "value_name": "Seagate",
+          "values": [
+            {
+              "struct": null,
+              "source": 1,
+              "id": "9597",
+              "name": "Seagate"
+            }
+          ],
+          "source": 1,
+          "id": "BRAND",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
+        },
+        {
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Novo",
+              "struct": null,
+              "source": 8139005603237814
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "name": "Condição do item",
+          "value_id": "2230284",
+          "value_name": "Novo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 8139005603237814,
+          "id": "ITEM_CONDITION"
+        },
+        {
+          "name": "Linha",
+          "value_id": "9614",
+          "value_name": "Expansion",
+          "values": [
+            {
+              "id": "9614",
+              "name": "Expansion",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "id": "LINE",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros"
+        },
+        {
+          "value_struct": null,
+          "values": [
+            {
+              "id": "7753077",
+              "name": "STEA2000400",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "attribute_group_name": "Outros",
+          "source": 1,
+          "name": "Modelo",
+          "value_name": "STEA2000400",
+          "attribute_group_id": "OTHERS",
+          "id": "MODEL",
+          "value_id": "7753077"
+        },
+        {
+          "source": 4333789534002961,
+          "value_id": null,
+          "value_name": "14.5 cm",
+          "values": [
+            {
+              "struct": {
+                "number": 14.5,
+                "unit": "cm"
+              },
+              "source": 4333789534002961,
+              "id": null,
+              "name": "14.5 cm"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "PACKAGE_LENGTH",
+          "name": "Comprimento da embalagem",
+          "value_struct": {
+            "number": 14.5,
+            "unit": "cm"
+          }
+        },
+        {
+          "attribute_group_name": "Outros",
+          "source": 4333789534002961,
+          "id": "PACKAGE_WEIGHT",
+          "name": "Peso da embalagem",
+          "value_id": null,
+          "value_struct": {
+            "unit": "g",
+            "number": 220
+          },
+          "attribute_group_id": "OTHERS",
+          "value_name": "220 g",
+          "values": [
+            {
+              "id": null,
+              "name": "220 g",
+              "struct": {
+                "number": 220,
+                "unit": "g"
+              },
+              "source": 4333789534002961
+            }
+          ]
+        },
+        {
+          "source": 1,
+          "id": "WEIGHT",
+          "value_id": "8589331",
+          "values": [
+            {
+              "struct": {
+                "number": 0.17,
+                "unit": "kg"
+              },
+              "source": 1,
+              "id": "8589331",
+              "name": "0.17 kg"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "name": "Peso",
+          "value_name": "0.17 kg",
+          "value_struct": {
+            "number": 0.17,
+            "unit": "kg"
+          }
+        }
+      ],
+      "original_price": 498.99,
+      "category_id": "MLB1672",
+      "official_store_id": 1655,
+      "domain_id": "MLB-HARD_DRIVES_AND_SSDS",
+      "catalog_product_id": "MLB6085399",
+      "tags": [
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "catalog_listing": true,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "order_backend": 48
     },
     {
       "id": "MLB1918572051",
@@ -13733,7 +14208,7 @@ const results =
         "cart_eligible",
         "shipping_guaranteed"
       ],
-      "order_backend": 46,
+      "order_backend": 49,
       "use_thumbnail_id": true,
       "offer_score": null,
       "offer_share": null,
@@ -13741,321 +14216,13 @@ const results =
       "winner_item_id": null
     },
     {
-      "id": "MLB1821094214",
+      "id": "MLB1576015899",
       "site_id": "MLB",
-      "title": "Pc Gamer Fácil Intel I5 9400f 16gb Geforce 2gb Ssd 480gb",
+      "title": "Pc Gamer Completo Maximus I5 Gt 740 8gb Hd 1tb Wi-fi",
       "seller": {
-        "id": 339584170,
-        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
-        "registration_date": "2018-07-25T08:43:54.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "mshops",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 2
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0261,
-              "value": 159
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0552,
-              "value": 327
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 5836
-            }
-          },
-          "transactions": {
-            "canceled": 1683,
-            "period": "historic",
-            "total": 36137,
-            "ratings": {
-              "negative": 0.08,
-              "neutral": 0.02,
-              "positive": 0.9
-            },
-            "completed": 34454
-          }
-        }
-      },
-      "price": 3853.88,
-      "prices": {
-        "id": "MLB1821094214",
-        "prices": [
-          {
-            "id": "27",
-            "type": "standard",
-            "amount": 4189,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-10-04T20:19:10Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          },
-          {
-            "id": "40",
-            "type": "promotion",
-            "amount": 3434.98,
-            "regular_amount": 4189,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:35:03Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:34:02Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1821094214-e6a49625-6fa3-4306-819e-312544696e6b",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 418.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 3853.88
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-          {
-            "id": "18b00e82-82d0-4a8a-b5f5-c5d4bdb28708",
-            "conditions": {
-              "allowed_methods": [
-                {
-                  "id": "pix",
-                  "issuer_id": null,
-                  "payment_type_id": "bank_transfer",
-                  "installments": null
-                }
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "restricted_to_prices": [
-              ]
-            },
-            "value": 5,
-            "type": "percentage",
-            "currency_id": null,
-            "metadata": {
-              "purchase_discount_id": "MLB465001",
-              "purchase_discount_type": "BD",
-              "purchase_discount_campaign_id": "P-MLB3042001",
-              "purchase_discount_rebate_id": "MLB1821094214-c6132324-d1a0-48d5-9dc3-d0db5ea56815"
-            },
-            "exchange_rate_context": "DEFAULT"
-          }
-        ],
-        "reference_prices": [
-          {
-            "id": "41",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T04:40:10Z",
-              "end_time": "2021-12-04T04:40:10Z",
-              "eligible": true
-            },
-            "amount": 4189,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-27T04:40:10Z"
-          }
-        ],
-        "purchase_discounts": [
-          {
-            "purchase_discount_id": "MLB465001",
-            "campaign_id": "P-MLB3042001",
-            "rebate_id": "MLB1821094214-c6132324-d1a0-48d5-9dc3-d0db5ea56815",
-            "type": "BD",
-            "discount_percentage": 0.05,
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "eligible": true
-            },
-            "purchase_min_amount": 0,
-            "max_discount_amount": 1000,
-            "max_benefit_count": 1
-          }
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 50,
-      "sold_quantity": 50,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2041-03-07T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1821094214-pc-gamer-facil-intel-i5-9400f-16gb-geforce-2gb-ssd-480gb-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_902685-MLB46708245677_072021-I.jpg",
-      "thumbnail_id": "902685-MLB46708245677_072021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 321.16,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_name": "COMPUTADOR FÁCIL",
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "COMPUTADOR FÁCIL",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "name": "Marca",
-          "value_id": null,
-          "attribute_group_id": "OTHERS",
-          "id": "BRAND"
-        },
-        {
-          "source": 2860837171021627,
-          "value_name": "Novo",
-          "value_struct": null,
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "id": "ITEM_CONDITION",
-          "name": "Condição do item",
-          "value_id": "2230284"
-        },
-        {
-          "value_name": "GAMER GT 730 2GB",
-          "attribute_group_name": "Outros",
-          "name": "Modelo",
-          "value_id": null,
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "GAMER GT 730 2GB",
-              "struct": null,
-              "source": 3376461333454861
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "source": 3376461333454861,
-          "id": "MODEL"
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": 4189,
-      "category_id": "MLB1649",
-      "official_store_id": 3808,
-      "domain_id": "MLB-DESKTOP_COMPUTERS",
-      "catalog_product_id": null,
-      "tags": [
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "shipping_guaranteed"
-      ],
-      "order_backend": 47,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null
-    },
-    {
-      "id": "MLB1968972332",
-      "site_id": "MLB",
-      "title": "Fonte De Alimentação Para Pc Knup Kp-522 500w Preta 115v/230v",
-      "seller": {
-        "id": 628501494,
-        "permalink": "http://perfil.mercadolivre.com.br/BLACK0HAWK",
-        "registration_date": "2020-08-19T16:43:05.000-04:00",
+        "id": 474139928,
+        "permalink": "http://perfil.mercadolivre.com.br/THARGONTECHNOLOGYIMPORTADORA",
+        "registration_date": "2019-09-25T12:00:10.000-04:00",
         "car_dealer": false,
         "real_estate_agency": false,
         "tags": [
@@ -14065,53 +14232,53 @@ const results =
           "messages_as_seller"
         ],
         "seller_reputation": {
-          "power_seller_status": "platinum",
+          "power_seller_status": "gold",
           "level_id": "5_green",
           "metrics": {
             "cancellations": {
               "period": "60 days",
-              "rate": 0.0019,
-              "value": 19
+              "rate": 0,
+              "value": 2
             },
             "claims": {
               "period": "60 days",
-              "rate": 0.0246,
-              "value": 244
+              "rate": 0.0221,
+              "value": 10
             },
             "delayed_handling_time": {
               "period": "60 days",
-              "rate": 0.1343,
-              "value": 1244
+              "rate": 0.0945,
+              "value": 40
             },
             "sales": {
               "period": "60 days",
-              "completed": 9150
+              "completed": 413
             }
           },
           "transactions": {
-            "canceled": 2620,
+            "canceled": 335,
             "period": "historic",
-            "total": 36099,
+            "total": 3492,
             "ratings": {
-              "negative": 0.14,
-              "neutral": 0.05,
-              "positive": 0.81
+              "negative": 0.08,
+              "neutral": 0.04,
+              "positive": 0.88
             },
-            "completed": 33479
+            "completed": 3157
           }
         }
       },
-      "price": 138,
+      "price": 4199,
       "prices": {
-        "id": "MLB1968972332",
+        "id": "MLB1576015899",
         "prices": [
           {
-            "id": "30",
+            "id": "29",
             "type": "standard",
-            "amount": 138,
+            "amount": 4199,
             "regular_amount": null,
             "currency_id": "BRL",
-            "last_updated": "2021-11-10T02:08:45Z",
+            "last_updated": "2021-07-29T20:58:59Z",
             "conditions": {
               "context_restrictions": [
               ],
@@ -14131,7 +14298,7 @@ const results =
         ],
         "reference_prices": [
           {
-            "id": "51",
+            "id": "64",
             "type": "min_standard",
             "conditions": {
               "context_restrictions": [
@@ -14141,30 +14308,12 @@ const results =
               "end_time": null,
               "eligible": true
             },
-            "amount": 138,
+            "amount": 4199,
             "currency_id": "BRL",
             "exchange_rate_context": "DEFAULT",
             "tags": [
             ],
-            "last_updated": "2021-11-27T04:39:14Z"
-          },
-          {
-            "id": "52",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T04:39:14Z",
-              "end_time": "2021-12-04T04:39:14Z",
-              "eligible": true
-            },
-            "amount": 142,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-27T04:39:14Z"
+            "last_updated": "2021-11-26T13:55:02Z"
           }
         ],
         "purchase_discounts": [
@@ -14172,20 +14321,20 @@ const results =
       },
       "sale_price": null,
       "currency_id": "BRL",
-      "available_quantity": 70,
-      "sold_quantity": 562,
+      "available_quantity": 1,
+      "sold_quantity": 150,
       "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_special",
-      "stop_time": "2041-07-29T04:00:00.000Z",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2041-03-07T14:10:53.000Z",
       "condition": "new",
-      "permalink": "https://www.mercadolivre.com.br/fonte-de-alimentaco-para-pc-knup-kp-522-500w-preta-115v230v/p/MLB14780217",
-      "thumbnail": "http://http2.mlstatic.com/D_774424-MLA43369737764_092020-I.jpg",
-      "thumbnail_id": "774424-MLA43369737764_092020",
+      "permalink": "https://produto.mercadolivre.com.br/MLB-1576015899-pc-gamer-completo-maximus-i5-gt-740-8gb-hd-1tb-wi-fi-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_924204-MLB44940648602_022021-I.jpg",
+      "thumbnail_id": "924204-MLB44940648602_022021",
       "accepts_mercadopago": true,
       "installments": {
         "quantity": 12,
-        "amount": 13.24,
-        "rate": 15.13,
+        "amount": 349.92,
+        "rate": 0,
         "currency_id": "BRL"
       },
       "address": {
@@ -14198,10 +14347,11 @@ const results =
         "free_shipping": true,
         "mode": "me2",
         "tags": [
+          "fulfillment",
           "self_service_in",
           "mandatory_free_shipping"
         ],
-        "logistic_type": "cross_docking",
+        "logistic_type": "fulfillment",
         "store_pick_up": false
       },
       "seller_address": {
@@ -14226,771 +14376,114 @@ const results =
       },
       "attributes": [
         {
-          "value_id": "140055",
-          "value_name": "Knup",
-          "values": [
-            {
-              "source": 1,
-              "id": "140055",
-              "name": "Knup",
-              "struct": null
-            }
-          ],
+          "name": "Marca",
           "attribute_group_id": "OTHERS",
-          "source": 1,
-          "id": "BRAND",
-          "name": "Marca da fonte",
-          "value_struct": null,
-          "attribute_group_name": "Outros"
-        },
-        {
-          "value_name": "140 mm",
-          "value_struct": {
-            "number": 140,
-            "unit": "mm"
-          },
-          "attribute_group_id": "OTHERS",
+          "source": 9903,
           "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "COMPUTER_POWER_SUPPLY_LENGTH",
-          "name": "Comprimento da fonte de alimentação para PC",
-          "value_id": "2279677",
+          "id": "BRAND",
+          "value_id": "7855833",
+          "value_name": "Intel",
+          "value_struct": null,
           "values": [
             {
-              "id": "2279677",
-              "name": "140 mm",
-              "struct": {
-                "number": 140,
-                "unit": "mm"
-              },
-              "source": 1
+              "id": "7855833",
+              "name": "Intel",
+              "struct": null,
+              "source": 9903
             }
           ]
         },
         {
-          "value_id": "7549220",
-          "attribute_group_id": "OTHERS",
-          "source": 1,
-          "id": "COMPUTER_POWER_SUPPLY_WEIGHT",
-          "name": "Peso da fonte de alimentação para PC",
-          "value_name": "1.15 kg",
-          "value_struct": {
-            "number": 1.15,
-            "unit": "kg"
-          },
-          "values": [
-            {
-              "id": "7549220",
-              "name": "1.15 kg",
-              "struct": {
-                "number": 1.15,
-                "unit": "kg"
-              },
-              "source": 1
-            }
-          ],
-          "attribute_group_name": "Outros"
-        },
-        {
-          "attribute_group_name": "Outros",
-          "source": 3045741222775799,
+          "id": "ITEM_CONDITION",
           "name": "Condição do item",
-          "value_id": "2230284",
           "value_name": "Novo",
+          "value_struct": null,
           "values": [
             {
+              "id": "2230284",
               "name": "Novo",
               "struct": null,
-              "source": 3045741222775799,
-              "id": "2230284"
-            }
-          ],
-          "id": "ITEM_CONDITION",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS"
-        },
-        {
-          "id": "MAIN_POWER_CONNECTOR_LENGTH",
-          "value_id": "7927235",
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "name": "Comprimento do conector principal",
-          "value_name": "1200 mm",
-          "value_struct": {
-            "number": 1200,
-            "unit": "mm"
-          },
-          "values": [
-            {
-              "id": "7927235",
-              "name": "1200 mm",
-              "struct": {
-                "number": 1200,
-                "unit": "mm"
-              },
               "source": 1
             }
           ],
-          "source": 1
-        },
-        {
-          "name": "Modelo da fonte",
-          "value_id": "4718415",
-          "value_struct": null,
+          "attribute_group_id": "OTHERS",
           "attribute_group_name": "Outros",
           "source": 1,
+          "value_id": "2230284"
+        },
+        {
+          "source": 9903,
+          "value_id": null,
+          "value_name": "Maximus",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
           "id": "MODEL",
-          "value_name": "KP-522",
+          "name": "Modelo",
           "values": [
             {
-              "id": "4718415",
-              "name": "KP-522",
               "struct": null,
-              "source": 1
+              "source": 9903,
+              "id": null,
+              "name": "Maximus"
             }
-          ],
-          "attribute_group_id": "OTHERS"
+          ]
         },
         {
-          "value_struct": null,
+          "name": "Comprimento da embalagem",
           "values": [
             {
-              "id": "242085",
-              "name": "Sim",
-              "struct": null,
-              "source": 1
+              "id": null,
+              "name": "53.5 cm",
+              "struct": {
+                "number": 53.5,
+                "unit": "cm"
+              },
+              "source": 4333789534002961
             }
           ],
           "attribute_group_name": "Outros",
-          "source": 1,
-          "id": "WITH_SILENT_OPERATION",
-          "name": "Com operação silenciosa",
+          "value_struct": {
+            "number": 53.5,
+            "unit": "cm"
+          },
           "attribute_group_id": "OTHERS",
-          "value_id": "242085",
-          "value_name": "Sim"
+          "source": 4333789534002961,
+          "id": "PACKAGE_LENGTH",
+          "value_id": null,
+          "value_name": "53.5 cm"
+        },
+        {
+          "name": "Peso da embalagem",
+          "value_name": "13650 g",
+          "source": 4333789534002961,
+          "values": [
+            {
+              "id": null,
+              "name": "13650 g",
+              "struct": {
+                "number": 13650,
+                "unit": "g"
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Outros",
+          "id": "PACKAGE_WEIGHT",
+          "value_id": null,
+          "value_struct": {
+            "number": 13650,
+            "unit": "g"
+          }
         }
       ],
+      "differential_pricing": {
+        "id": 33580182
+      },
       "original_price": null,
-      "category_id": "MLB6777",
+      "category_id": "MLB1649",
       "official_store_id": null,
-      "domain_id": "MLB-DESKTOP_COMPUTER_POWER_SUPPLIES",
-      "catalog_product_id": "MLB14780217",
-      "tags": [
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
-        "extended_warranty_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "best_seller_candidate"
-      ],
-      "catalog_listing": true,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null,
-      "order_backend": 48
-    },
-    {
-      "id": "MLB1570172545",
-      "site_id": "MLB",
-      "title": "Computador Completo Fácil Intel Core I5 08gb Ddr3 Ssd 240 Gb",
-      "seller": {
-        "id": 339584170,
-        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
-        "registration_date": "2018-07-25T08:43:54.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "mshops",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 2
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0261,
-              "value": 159
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0552,
-              "value": 327
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 5836
-            }
-          },
-          "transactions": {
-            "canceled": 1683,
-            "period": "historic",
-            "total": 36137,
-            "ratings": {
-              "negative": 0.08,
-              "neutral": 0.02,
-              "positive": 0.9
-            },
-            "completed": 34454
-          }
-        }
-      },
-      "price": 2142.68,
-      "prices": {
-        "id": "MLB1570172545",
-        "prices": [
-          {
-            "id": "40",
-            "type": "standard",
-            "amount": 2329,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-24T17:18:36Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          },
-          {
-            "id": "42",
-            "type": "promotion",
-            "amount": 1909.78,
-            "regular_amount": 2329,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T19:05:05Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T19:04:04Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1570172545-8341e58c-8b94-47e5-8819-79d6084a5d8d",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 232.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2142.68
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-          {
-            "id": "6397d2a0-d863-4a11-861e-e48fc0e0da29",
-            "conditions": {
-              "allowed_methods": [
-                {
-                  "id": "pix",
-                  "issuer_id": null,
-                  "payment_type_id": "bank_transfer",
-                  "installments": null
-                }
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "restricted_to_prices": [
-              ]
-            },
-            "value": 5,
-            "type": "percentage",
-            "currency_id": null,
-            "metadata": {
-              "purchase_discount_id": "MLB465001",
-              "purchase_discount_type": "BD",
-              "purchase_discount_campaign_id": "P-MLB3042001",
-              "purchase_discount_rebate_id": "MLB1570172545-f70b5b7f-be84-4efd-8597-90b0c7809e91"
-            },
-            "exchange_rate_context": "DEFAULT"
-          }
-        ],
-        "reference_prices": [
-          {
-            "id": "39",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-22T04:57:47Z",
-              "end_time": "2021-11-29T04:57:47Z",
-              "eligible": true
-            },
-            "amount": 2229,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-22T04:57:47Z"
-          }
-        ],
-        "purchase_discounts": [
-          {
-            "purchase_discount_id": "MLB465001",
-            "campaign_id": "P-MLB3042001",
-            "rebate_id": "MLB1570172545-f70b5b7f-be84-4efd-8597-90b0c7809e91",
-            "type": "BD",
-            "discount_percentage": 0.05,
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "eligible": true
-            },
-            "purchase_min_amount": 0,
-            "max_discount_amount": 1000,
-            "max_benefit_count": 1
-          }
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 150,
-      "sold_quantity": 250,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2040-06-19T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1570172545-computador-completo-facil-intel-core-i5-08gb-ddr3-ssd-240-gb-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_772133-MLB46868464462_072021-I.jpg",
-      "thumbnail_id": "772133-MLB46868464462_072021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 178.56,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_name": "Fácil Computadores",
-          "source": 4060709329251625,
-          "id": "BRAND",
-          "name": "Marca",
-          "value_id": null,
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "Fácil Computadores",
-              "struct": null,
-              "source": 4060709329251625
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
-        },
-        {
-          "id": "ITEM_CONDITION",
-          "value_name": "Novo",
-          "value_struct": null,
-          "source": 2860837171021627,
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "values": [
-            {
-              "struct": null,
-              "source": 2860837171021627,
-              "id": "2230284",
-              "name": "Novo"
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros"
-        },
-        {
-          "id": "MODEL",
-          "name": "Modelo",
-          "attribute_group_id": "OTHERS",
-          "value_id": null,
-          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
-          "value_struct": null,
-          "values": [
-            {
-              "id": null,
-              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": 2329,
-      "category_id": "MLB1649",
-      "official_store_id": 3808,
-      "domain_id": "MLB-DESKTOP_COMPUTERS",
-      "catalog_product_id": null,
-      "tags": [
-        "good_quality_picture",
-        "good_quality_thumbnail",
-        "loyalty_discount_eligible",
-        "immediate_payment",
-        "cart_eligible",
-        "shipping_guaranteed"
-      ],
-      "order_backend": 49,
-      "use_thumbnail_id": true,
-      "offer_score": null,
-      "offer_share": null,
-      "match_score": null,
-      "winner_item_id": null
-    },
-    {
-      "id": "MLB1549231499",
-      "site_id": "MLB",
-      "title": "Computador Completo Fácil Intel I5 08 Gb Ddr3 Hd 500 Gb",
-      "seller": {
-        "id": 339584170,
-        "permalink": "http://perfil.mercadolivre.com.br/TECHFACIL+INFO",
-        "registration_date": "2018-07-25T08:43:54.000-04:00",
-        "car_dealer": false,
-        "real_estate_agency": false,
-        "tags": [
-          "brand",
-          "large_seller",
-          "mshops",
-          "credits_profile",
-          "messages_as_seller"
-        ],
-        "seller_reputation": {
-          "power_seller_status": "platinum",
-          "level_id": "5_green",
-          "metrics": {
-            "cancellations": {
-              "period": "60 days",
-              "rate": 0,
-              "value": 2
-            },
-            "claims": {
-              "period": "60 days",
-              "rate": 0.0261,
-              "value": 159
-            },
-            "delayed_handling_time": {
-              "period": "60 days",
-              "rate": 0.0552,
-              "value": 327
-            },
-            "sales": {
-              "period": "60 days",
-              "completed": 5836
-            }
-          },
-          "transactions": {
-            "canceled": 1683,
-            "period": "historic",
-            "total": 36137,
-            "ratings": {
-              "negative": 0.08,
-              "neutral": 0.02,
-              "positive": 0.9
-            },
-            "completed": 34454
-          }
-        }
-      },
-      "price": 2023.08,
-      "prices": {
-        "id": "MLB1549231499",
-        "prices": [
-          {
-            "id": "31",
-            "type": "standard",
-            "amount": 2199,
-            "regular_amount": null,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-24T17:18:33Z",
-            "conditions": {
-              "context_restrictions": [
-              ],
-              "start_time": null,
-              "end_time": null,
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-            }
-          },
-          {
-            "id": "34",
-            "type": "promotion",
-            "amount": 1803.18,
-            "regular_amount": 2199,
-            "currency_id": "BRL",
-            "last_updated": "2021-11-26T18:58:41Z",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T18:57:41Z",
-              "end_time": "2021-11-30T02:00:00Z",
-              "eligible": true
-            },
-            "exchange_rate_context": "DEFAULT",
-            "metadata": {
-              "campaign_id": "P-MLB3014001",
-              "promotion_id": "MLB1549231499-fd2c9c2d-f53f-4d58-b751-91d53803f578",
-              "promotion_type": "marketplace_campaign",
-              "discount_meli_amount": 219.9,
-              "campaign_discount_percentage": 18,
-              "campaign_end_date": "2021-11-30T02:00:00Z",
-              "order_item_price": 2023.08
-            }
-          }
-        ],
-        "presentation": {
-          "display_currency": "BRL"
-        },
-        "payment_method_prices": [
-          {
-            "id": "25867526-dae5-4850-a427-83f5acba92ff",
-            "conditions": {
-              "allowed_methods": [
-                {
-                  "id": "pix",
-                  "issuer_id": null,
-                  "payment_type_id": "bank_transfer",
-                  "installments": null
-                }
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "restricted_to_prices": [
-              ]
-            },
-            "value": 5,
-            "type": "percentage",
-            "currency_id": null,
-            "metadata": {
-              "purchase_discount_id": "MLB465001",
-              "purchase_discount_type": "BD",
-              "purchase_discount_campaign_id": "P-MLB3042001",
-              "purchase_discount_rebate_id": "MLB1549231499-4bac148c-f20a-405a-bfff-9ee9c6c5090f"
-            },
-            "exchange_rate_context": "DEFAULT"
-          }
-        ],
-        "reference_prices": [
-          {
-            "id": "33",
-            "type": "was",
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-26T05:03:23Z",
-              "end_time": "2021-12-03T05:03:23Z",
-              "eligible": true
-            },
-            "amount": 2093.52,
-            "currency_id": "BRL",
-            "exchange_rate_context": "DEFAULT",
-            "tags": [
-            ],
-            "last_updated": "2021-11-26T05:03:23Z"
-          }
-        ],
-        "purchase_discounts": [
-          {
-            "purchase_discount_id": "MLB465001",
-            "campaign_id": "P-MLB3042001",
-            "rebate_id": "MLB1549231499-4bac148c-f20a-405a-bfff-9ee9c6c5090f",
-            "type": "BD",
-            "discount_percentage": 0.05,
-            "conditions": {
-              "context_restrictions": [
-                "channel_marketplace"
-              ],
-              "start_time": "2021-11-27T22:00:00Z",
-              "end_time": "2021-12-01T02:00:00Z",
-              "eligible": true
-            },
-            "purchase_min_amount": 0,
-            "max_discount_amount": 1000,
-            "max_benefit_count": 1
-          }
-        ]
-      },
-      "sale_price": null,
-      "currency_id": "BRL",
-      "available_quantity": 150,
-      "sold_quantity": 500,
-      "buying_mode": "buy_it_now",
-      "listing_type_id": "gold_pro",
-      "stop_time": "2040-05-31T04:00:00.000Z",
-      "condition": "new",
-      "permalink": "https://produto.mercadolivre.com.br/MLB-1549231499-computador-completo-facil-intel-i5-08-gb-ddr3-hd-500-gb-_JM",
-      "thumbnail": "http://http2.mlstatic.com/D_755775-MLB46851004581_072021-I.jpg",
-      "thumbnail_id": "755775-MLB46851004581_072021",
-      "accepts_mercadopago": true,
-      "installments": {
-        "quantity": 12,
-        "amount": 168.59,
-        "rate": 0,
-        "currency_id": "BRL"
-      },
-      "address": {
-        "state_id": "BR-MG",
-        "state_name": "Minas Gerais",
-        "city_id": "TUxCQ0JFTGU0ODdm",
-        "city_name": "Belo Horizonte"
-      },
-      "shipping": {
-        "free_shipping": true,
-        "mode": "me2",
-        "tags": [
-          "mandatory_free_shipping"
-        ],
-        "logistic_type": "cross_docking",
-        "store_pick_up": false
-      },
-      "seller_address": {
-        "id": "",
-        "comment": "",
-        "address_line": "",
-        "zip_code": "",
-        "country": {
-          "id": "BR",
-          "name": "Brasil"
-        },
-        "state": {
-          "id": "BR-MG",
-          "name": "Minas Gerais"
-        },
-        "city": {
-          "id": "TUxCQ0JFTGU0ODdm",
-          "name": "Belo Horizonte"
-        },
-        "latitude": "",
-        "longitude": ""
-      },
-      "attributes": [
-        {
-          "value_id": null,
-          "values": [
-            {
-              "source": 4060709329251625,
-              "id": null,
-              "name": "Fácil Computadores",
-              "struct": null
-            }
-          ],
-          "value_name": "Fácil Computadores",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 4060709329251625,
-          "id": "BRAND",
-          "name": "Marca"
-        },
-        {
-          "name": "Condição do item",
-          "value_id": "2230284",
-          "value_name": "Novo",
-          "values": [
-            {
-              "id": "2230284",
-              "name": "Novo",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "source": 2860837171021627,
-          "id": "ITEM_CONDITION",
-          "value_struct": null
-        },
-        {
-          "source": 2860837171021627,
-          "id": "MODEL",
-          "values": [
-            {
-              "id": null,
-              "name": "KIT I5 + MONITOR + MOUSE E TECLADO",
-              "struct": null,
-              "source": 2860837171021627
-            }
-          ],
-          "value_name": "KIT I5 + MONITOR + MOUSE E TECLADO",
-          "value_struct": null,
-          "attribute_group_id": "OTHERS",
-          "attribute_group_name": "Outros",
-          "name": "Modelo",
-          "value_id": null
-        }
-      ],
-      "differential_pricing": {
-        "id": 33580182
-      },
-      "original_price": 2199,
-      "category_id": "MLB1649",
-      "official_store_id": 3808,
       "domain_id": "MLB-DESKTOP_COMPUTERS",
       "catalog_product_id": null,
       "tags": [
@@ -15052,92 +14545,92 @@ const results =
         {
           "id": "MLB430687",
           "name": "Portáteis e Acessórios",
-          "results": 25539
+          "results": 26119
         },
         {
           "id": "MLB430637",
           "name": "PC de Mesa",
-          "results": 112129
+          "results": 111114
         },
         {
           "id": "MLB1712",
           "name": "Componentes para PC",
-          "results": 73059
+          "results": 74306
         },
         {
           "id": "MLB454379",
           "name": "Periféricos para PC",
-          "results": 24998
+          "results": 23954
         },
         {
           "id": "MLB430598",
           "name": "Armazenamento",
-          "results": 21087
+          "results": 21320
         },
         {
           "id": "MLB1700",
           "name": "Conectividade e Redes",
-          "results": 16414
+          "results": 16066
         },
         {
           "id": "MLB430918",
           "name": "Cabos e Hubs USB",
-          "results": 14500
+          "results": 14558
         },
         {
           "id": "MLB447778",
           "name": "Acessórios para PC Gaming",
-          "results": 12151
+          "results": 12441
         },
         {
           "id": "MLB5875",
           "name": "Impressão",
-          "results": 3364
+          "results": 3712
         },
         {
           "id": "MLB99944",
           "name": "Limpeza de PCs",
-          "results": 2523
+          "results": 2784
         },
         {
           "id": "MLB1718",
           "name": "Estabilizadores e No Breaks",
-          "results": 2059
+          "results": 2494
         },
         {
           "id": "MLB91757",
           "name": "Tablets e Acessórios",
-          "results": 1537
-        },
-        {
-          "id": "MLB1723",
-          "name": "Software",
-          "results": 1276
+          "results": 1450
         },
         {
           "id": "MLB14370",
           "name": "Monitores e Acessórios",
-          "results": 1044
+          "results": 986
+        },
+        {
+          "id": "MLB1723",
+          "name": "Software",
+          "results": 783
         },
         {
           "id": "MLB271908",
           "name": "Leitores e Scanners",
-          "results": 754
-        },
-        {
-          "id": "MLB1657",
-          "name": "Projetores e Telas",
-          "results": 406
+          "results": 696
         },
         {
           "id": "MLB271913",
           "name": "Acessórios de Antiestática",
-          "results": 348
+          "results": 493
+        },
+        {
+          "id": "MLB1657",
+          "name": "Projetores e Telas",
+          "results": 290
         },
         {
           "id": "MLB1651",
           "name": "Palms e Handhelds",
-          "results": 87
+          "results": 145
         },
         {
           "id": "MLB1912",
@@ -15154,57 +14647,52 @@ const results =
         {
           "id": "all",
           "name": "Todas las tiendas oficiales",
-          "results": 20454
+          "results": 19788
         },
         {
           "id": "3808",
           "name": "Tech Facil",
-          "results": 1294
+          "results": 1410
         },
         {
           "id": "1655",
           "name": "INPOWER",
-          "results": 438
+          "results": 613
         },
         {
           "id": "3027",
           "name": "Ponto Certo Eletro",
-          "results": 90
+          "results": 3
         },
         {
           "id": "1587",
           "name": "Imperiums",
-          "results": 1046
+          "results": 843
         },
         {
           "id": "1367",
           "name": "SincPlace",
-          "results": 89
-        },
-        {
-          "id": "923",
-          "name": "Lenovo",
-          "results": 89
-        },
-        {
-          "id": "3401",
-          "name": "123 Comprou",
           "results": 31
         },
         {
           "id": "2138",
           "name": "Loja MMPLACE",
+          "results": 31
+        },
+        {
+          "id": "923",
+          "name": "Lenovo",
+          "results": 31
+        },
+        {
+          "id": "3401",
+          "name": "123 Comprou",
           "results": 2
         },
         {
           "id": "1689",
           "name": "Concordia",
-          "results": 465
-        },
-        {
-          "id": "3396",
-          "name": "Miranda",
-          "results": 88
+          "results": 262
         },
         {
           "id": "1860",
@@ -15214,6 +14702,11 @@ const results =
         {
           "id": "20",
           "name": "Mega Mamute",
+          "results": 1
+        },
+        {
+          "id": "3396",
+          "name": "Miranda",
           "results": 1
         }
       ]
@@ -15226,32 +14719,32 @@ const results =
         {
           "id": "5-100",
           "name": "Desde 5% OFF",
-          "results": 12981
+          "results": 10632
         },
         {
           "id": "10-100",
           "name": "Desde 10% OFF",
-          "results": 6389
+          "results": 4586
         },
         {
           "id": "15-100",
           "name": "Desde 15% OFF",
-          "results": 3429
+          "results": 1827
         },
         {
           "id": "20-100",
           "name": "Desde 20% OFF",
-          "results": 1653
+          "results": 1160
         },
         {
           "id": "25-100",
           "name": "Desde 25% OFF",
-          "results": 1160
+          "results": 783
         },
         {
           "id": "30-100",
           "name": "Desde 30% OFF",
-          "results": 986
+          "results": 580
         }
       ]
     },
@@ -15263,92 +14756,92 @@ const results =
         {
           "id": "TUxCUFNBT085N2E4",
           "name": "São Paulo",
-          "results": 191392
+          "results": 189421
         },
         {
           "id": "TUxCUE1JTlMxNTAyZA",
           "name": "Minas Gerais",
-          "results": 17251
+          "results": 19281
         },
         {
           "id": "TUxCUFBBUkExODBlZA",
           "name": "Paraná",
-          "results": 16825
+          "results": 16506
         },
         {
           "id": "TUxCUFJJT08xODM5Zg",
           "name": "Rio de Janeiro",
-          "results": 16247
+          "results": 15957
         },
         {
           "id": "TUxCUFNBTkE5Nzc4",
           "name": "Santa Catarina",
-          "results": 9721
+          "results": 10417
         },
         {
           "id": "TUxCUFJJT0xkYzM0",
           "name": "Rio Grande do Sul",
-          "results": 5452
-        },
-        {
-          "id": "TUxCUEJBSEFlYmEx",
-          "name": "Bahia",
-          "results": 2408
+          "results": 5713
         },
         {
           "id": "TUxCUEdPSVMxNzVmMw",
           "name": "Goiás",
-          "results": 2117
+          "results": 2204
+        },
+        {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia",
+          "results": 2118
         },
         {
           "id": "TUxCUEVTUE8xN2Y3NA",
           "name": "Espírito Santo",
-          "results": 2093
+          "results": 1976
         },
         {
           "id": "TUxCUE1BVEw4ZTc",
           "name": "Mato Grosso do Sul",
-          "results": 1363
+          "results": 1392
         },
         {
           "id": "TUxCUERJU0wxMWJhYg",
           "name": "Distrito Federal",
-          "results": 1189
-        },
-        {
-          "id": "TUxCUENFQUExNzkyZQ",
-          "name": "Ceará",
-          "results": 986
+          "results": 1160
         },
         {
           "id": "TUxCUE1BVE9jZDY0",
           "name": "Mato Grosso",
-          "results": 928
+          "results": 1131
+        },
+        {
+          "id": "TUxCUENFQUExNzkyZQ",
+          "name": "Ceará",
+          "results": 812
         },
         {
           "id": "TUxCUFBBUkFiY2Uw",
           "name": "Pará",
-          "results": 638
+          "results": 609
         },
         {
-          "id": "TUxCUFBFUk8xZmZj",
-          "name": "Pernambuco",
+          "id": "TUxCUFJJT0VkMmNj",
+          "name": "Rio Grande do Norte",
+          "results": 465
+        },
+        {
+          "id": "TUxCUFBBUkE0M2I4",
+          "name": "Paraíba",
           "results": 464
         },
         {
           "id": "TUxCUEFMQVNmZjUw",
           "name": "Alagoas",
-          "results": 406
+          "results": 435
         },
         {
-          "id": "TUxCUFBBUkE0M2I4",
-          "name": "Paraíba",
-          "results": 377
-        },
-        {
-          "id": "TUxCUFJJT0VkMmNj",
-          "name": "Rio Grande do Norte",
-          "results": 291
+          "id": "TUxCUFBFUk8xZmZj",
+          "name": "Pernambuco",
+          "results": 319
         },
         {
           "id": "TUxCUFNFUkUxMmZlOQ",
@@ -15356,14 +14849,19 @@ const results =
           "results": 145
         },
         {
-          "id": "TUxCUFRPQ1NjZDBm",
-          "name": "Tocantins",
-          "results": 87
-        },
-        {
           "id": "TUxCUFBJQUk1NDVj",
           "name": "Piauí",
           "results": 58
+        },
+        {
+          "id": "TUxCUE1BUk81MWVi",
+          "name": "Maranhão",
+          "results": 29
+        },
+        {
+          "id": "TUxCUFJPTkExMmU4YQ",
+          "name": "Rondônia",
+          "results": 29
         }
       ]
     },
@@ -15375,17 +14873,17 @@ const results =
         {
           "id": "*-100.0",
           "name": "Up to R$100",
-          "results": 74879
+          "results": 73689
         },
         {
           "id": "100.0-1500.0",
           "name": "R$100 to R$1.500",
-          "results": 109705
+          "results": 111935
         },
         {
           "id": "1500.0-*",
           "name": "More than R$1.500",
-          "results": 103457
+          "results": 102417
         }
       ]
     },
@@ -15409,7 +14907,7 @@ const results =
         {
           "id": "no_interest",
           "name": "Sin interés",
-          "results": 166133
+          "results": 162914
         }
       ]
     },
@@ -15421,12 +14919,12 @@ const results =
         {
           "id": "mercadoenvios",
           "name": "Mercado Envíos",
-          "results": 284358
+          "results": 284532
         },
         {
           "id": "fulfillment",
           "name": "Full",
-          "results": 4074
+          "results": 3552
         }
       ]
     },
@@ -15438,7 +14936,7 @@ const results =
         {
           "id": "yes",
           "name": "Best sellers",
-          "results": 145643
+          "results": 144222
         }
       ]
     },
@@ -15455,18 +14953,6 @@ const results =
       ]
     },
     {
-      "id": "until",
-      "name": "Auction stop filter",
-      "type": "text",
-      "values": [
-        {
-          "id": "today",
-          "name": "Ending today",
-          "results": 58
-        }
-      ]
-    },
-    {
       "id": "has_video",
       "name": "Video publications filter",
       "type": "boolean",
@@ -15474,7 +14960,7 @@ const results =
         {
           "id": "yes",
           "name": "Publications with video",
-          "results": 38498
+          "results": 37715
         }
       ]
     },
@@ -15486,7 +14972,7 @@ const results =
         {
           "id": "yes",
           "name": "With pictures",
-          "results": 288041
+          "results": 287983
         }
       ]
     },
@@ -15498,12 +14984,17 @@ const results =
         {
           "id": "10-100",
           "name": "Desde 10% OFF",
-          "results": 1835
+          "results": 843
         },
         {
           "id": "15-100",
           "name": "Desde 15% OFF",
-          "results": 1254
+          "results": 377
+        },
+        {
+          "id": "20-100",
+          "name": "Desde 20% OFF",
+          "results": 87
         },
         {
           "id": "25-100",
@@ -15523,19 +15014,14 @@ const results =
       "type": "number",
       "values": [
         {
-          "id": "P-MLB3014001",
-          "name": "P-MLB3014001",
-          "results": 36
-        },
-        {
           "id": "MLB6630",
           "name": "MLB6630",
-          "results": 16
+          "results": 22
         },
         {
           "id": "P-MLB2998002",
           "name": "P-MLB2998002",
-          "results": 1
+          "results": 2
         }
       ]
     },
@@ -15547,7 +15033,7 @@ const results =
         {
           "id": "free",
           "name": "Gratis",
-          "results": 179198
+          "results": 178648
         }
       ]
     },
@@ -15559,17 +15045,17 @@ const results =
         {
           "id": "2230284",
           "name": "Novo",
-          "results": 192052
+          "results": 190260
         },
         {
           "id": "2230581",
           "name": "Usado",
-          "results": 87416
+          "results": 89236
         },
         {
           "id": "2230582",
           "name": "Recondicionado",
-          "results": 980
+          "results": 1064
         }
       ]
     },
@@ -15581,12 +15067,12 @@ const results =
         {
           "id": "10215068",
           "name": "Local",
-          "results": 264684
+          "results": 265440
         },
         {
           "id": "10215069",
           "name": "Internacional",
-          "results": 16128
+          "results": 15372
         }
       ]
     }
