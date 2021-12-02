@@ -1,4 +1,4 @@
-import {results}  from './computerCategory'
+const results = require('./computerCategory')
 
 const fetch = (url) => Promise.resolve({
   status: 200,
